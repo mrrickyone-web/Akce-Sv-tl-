@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-events:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -26,10 +27,12 @@ jobs:
 
       - name: Install scraper dependencies
         working-directory: scraper
-        run: npm install
+        timeout-minutes: 2
+        run: npm ci || npm install
 
       - name: Run event scraper
         working-directory: scraper
+        timeout-minutes: 2
         run: npm run scrape
 
       - name: Commit and push updated events.json

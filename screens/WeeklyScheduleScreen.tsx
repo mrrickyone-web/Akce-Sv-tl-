@@ -12,9 +12,10 @@ import { EventCard } from '../components/EventCard';
 import { LastUpdatedFooter } from '../components/LastUpdatedFooter';
 import { AppTheme } from '../theme/colors';
 import {
+  CategoryFilter,
+  CityId,
   DataOrigin,
   EventsPayload,
-  FilterOption,
   ScheduleEvent,
 } from '../types/events';
 import {
@@ -22,28 +23,28 @@ import {
   getLocalDateKey,
   getWeekDays,
 } from '../utils/date';
+import { filterEvents } from '../utils/filter';
 
 interface WeeklyScheduleScreenProps {
   payload: EventsPayload;
   origin: DataOrigin;
   syncNote?: string | null;
-  filter: FilterOption;
+  categoryFilter: CategoryFilter;
+  selectedCities: CityId[];
+  searchQuery: string;
   refreshing: boolean;
   onRefresh: () => void;
   nowMs: number;
   theme: AppTheme;
 }
 
-function matchesFilter(event: ScheduleEvent, filter: FilterOption): boolean {
-  if (filter === 'all') return true;
-  return event.category === filter;
-}
-
 export function WeeklyScheduleScreen({
   payload,
   origin,
   syncNote,
-  filter,
+  categoryFilter,
+  selectedCities,
+  searchQuery,
   refreshing,
   onRefresh,
   nowMs,
@@ -73,8 +74,14 @@ export function WeeklyScheduleScreen({
   }, [payload.events, nextWeekDays]);
 
   const filteredEvents = useMemo(
-    () => payload.events.filter((e) => matchesFilter(e, filter)),
-    [payload.events, filter]
+    () =>
+      filterEvents(
+        payload.events,
+        categoryFilter,
+        selectedCities,
+        searchQuery
+      ),
+    [payload.events, categoryFilter, selectedCities, searchQuery]
   );
 
   const eventsByDate = useMemo(() => {
@@ -143,13 +150,14 @@ export function WeeklyScheduleScreen({
         </View>
       )}
 
-      {/* Day selector Po–Ne */}
+      {/* Výběr dne Po–Ne */}
       <View style={[styles.dayStrip, { borderBottomColor: theme.border }]}>
         {weekDays.map((day) => {
           const isSelected = day.dateKey === activeDateKey;
           const dayEvents = eventsByDate.get(day.dateKey) ?? [];
-          const hasSkating = dayEvents.some((e) => e.category === 'skating');
-          const hasSwimming = dayEvents.some((e) => e.category === 'swimming');
+          const hasSport = dayEvents.some((e) => e.category === 'sport');
+          const hasCinema = dayEvents.some((e) => e.category === 'cinema');
+          const hasCulture = dayEvents.some((e) => e.category === 'culture');
 
           return (
             <Pressable
@@ -191,22 +199,32 @@ export function WeeklyScheduleScreen({
                 {day.dayNumber}
               </Text>
               <View style={styles.dotsRow}>
-                {hasSkating && (
+                {hasSport && (
                   <View
                     style={[
                       styles.dot,
                       {
-                        backgroundColor: isSelected ? '#FFFFFF' : theme.skating,
+                        backgroundColor: isSelected ? '#CCFBF1' : theme.sport,
                       },
                     ]}
                   />
                 )}
-                {hasSwimming && (
+                {hasCinema && (
                   <View
                     style={[
                       styles.dot,
                       {
-                        backgroundColor: isSelected ? '#CCFBF1' : theme.pool,
+                        backgroundColor: isSelected ? '#E0E7FF' : theme.cinema,
+                      },
+                    ]}
+                  />
+                )}
+                {hasCulture && (
+                  <View
+                    style={[
+                      styles.dot,
+                      {
+                        backgroundColor: isSelected ? '#FFE4E6' : theme.culture,
                       },
                     ]}
                   />
@@ -220,6 +238,7 @@ export function WeeklyScheduleScreen({
       <ScrollView
         style={styles.scroll}
         contentContainerStyle={styles.content}
+        keyboardShouldPersistTaps="handled"
         refreshControl={
           <RefreshControl
             refreshing={refreshing}
@@ -237,10 +256,10 @@ export function WeeklyScheduleScreen({
             {selectedDayEvents.length === 0
               ? 'Bez akcí'
               : selectedDayEvents.length === 1
-                ? '1 termín'
+                ? '1 akce'
                 : selectedDayEvents.length <= 4
-                  ? `${selectedDayEvents.length} termíny`
-                  : `${selectedDayEvents.length} termínů`}
+                  ? `${selectedDayEvents.length} akce`
+                  : `${selectedDayEvents.length} akcí`}
           </Text>
         </View>
 
@@ -264,10 +283,10 @@ export function WeeklyScheduleScreen({
           >
             <Ionicons name="calendar-outline" size={28} color={theme.textMuted} />
             <Text style={[styles.emptyTitle, { color: theme.text }]}>
-              Žádné vypsané termíny
+              Žádné vypsané akce
             </Text>
             <Text style={[styles.emptySub, { color: theme.textSecondary }]}>
-              Pro tento den a vybraný filtr nebyl nalezen žádný termín.
+              Pro tento den a vybraný filtr nebyla nalezena žádná akce.
             </Text>
           </View>
         )}
@@ -290,7 +309,8 @@ const styles = StyleSheet.create({
   weekToggleRow: {
     flexDirection: 'row',
     paddingHorizontal: 16,
-    paddingBottom: 8,
+    paddingTop: 10,
+    paddingBottom: 6,
     gap: 8,
   },
   weekToggleBtn: {
@@ -308,6 +328,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     paddingHorizontal: 12,
+    paddingTop: 4,
     paddingBottom: 10,
     borderBottomWidth: 1,
     gap: 4,

@@ -4,6 +4,7 @@ import {
   Pressable,
   StyleSheet,
   Text,
+  TextInput,
   useColorScheme,
   View,
 } from 'react-native';
@@ -16,10 +17,18 @@ import { WeeklyScheduleScreen } from './screens/WeeklyScheduleScreen';
 import {
   getBundledEvents,
   loadLocalEvents,
+  loadSelectedCities,
   refreshLiveEvents,
+  saveSelectedCities,
 } from './services/events';
 import { darkTheme, lightTheme } from './theme/colors';
-import { DataOrigin, EventsPayload, FilterOption } from './types/events';
+import {
+  ALL_CITIES,
+  CategoryFilter,
+  CityId,
+  DataOrigin,
+  EventsPayload,
+} from './types/events';
 
 type TabKey = 'today' | 'week';
 
@@ -30,7 +39,11 @@ function MainApp() {
   const theme = isDark ? darkTheme : lightTheme;
 
   const [activeTab, setActiveTab] = useState<TabKey>('today');
-  const [filter, setFilter] = useState<FilterOption>('all');
+  const [categoryFilter, setCategoryFilter] = useState<CategoryFilter>('all');
+  const [selectedCities, setSelectedCities] = useState<CityId[]>([]); // [] = Vše
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+
   const [payload, setPayload] = useState<EventsPayload>(() => getBundledEvents());
   const [origin, setOrigin] = useState<DataOrigin>('bundled');
   const [syncNote, setSyncNote] = useState<string | null>(null);
@@ -43,6 +56,35 @@ function MainApp() {
       setNowMs(Date.now());
     }, 30_000);
     return () => clearInterval(interval);
+  }, []);
+
+  // Načtení uložených měst při startu
+  useEffect(() => {
+    let mounted = true;
+    loadSelectedCities().then((saved) => {
+      if (mounted) {
+        setSelectedCities(saved);
+      }
+    });
+    return () => {
+      mounted = false;
+    };
+  }, []);
+
+  const handleToggleCity = useCallback((city: CityId | 'all') => {
+    setSelectedCities((prev) => {
+      let next: CityId[];
+      if (city === 'all') {
+        next = [];
+      } else if (prev.includes(city)) {
+        next = prev.filter((c) => c !== city);
+      } else {
+        const added = [...prev, city];
+        next = added.length >= ALL_CITIES.length ? [] : added;
+      }
+      saveSelectedCities(next);
+      return next;
+    });
   }, []);
 
   const handleRefresh = useCallback(async () => {
@@ -84,6 +126,13 @@ function MainApp() {
     setThemeOverride(isDark ? 'light' : 'dark');
   };
 
+  const toggleSearch = () => {
+    setSearchOpen((prev) => {
+      if (prev) setSearchQuery('');
+      return !prev;
+    });
+  };
+
   return (
     <SafeAreaView
       style={[styles.safeArea, { backgroundColor: theme.background }]}
@@ -98,11 +147,32 @@ function MainApp() {
             Akce Světlá
           </Text>
           <Text style={[styles.appSubtitle, { color: theme.textMuted }]}>
-            Bruslení Pěšinky & bazén Havlíčkův Brod
+            Světlá • H. Brod • Ledeč • Humpolec
           </Text>
         </View>
 
         <View style={styles.headerActions}>
+          <Pressable
+            onPress={toggleSearch}
+            style={({ pressed }) => [
+              styles.iconButton,
+              {
+                backgroundColor:
+                  searchOpen || searchQuery ? theme.primarySoft : theme.surface,
+                borderColor:
+                  searchOpen || searchQuery ? theme.primary : theme.border,
+                opacity: pressed ? 0.75 : 1,
+              },
+            ]}
+            accessibilityLabel="Vyhledat film nebo akci"
+          >
+            <Ionicons
+              name={searchOpen ? 'close-outline' : 'search-outline'}
+              size={20}
+              color={searchOpen || searchQuery ? theme.primary : theme.text}
+            />
+          </Pressable>
+
           <Pressable
             onPress={handleRefresh}
             disabled={refreshing}
@@ -144,8 +214,55 @@ function MainApp() {
         </View>
       </View>
 
-      {/* Rychlé filtry */}
-      <FilterChips selected={filter} onSelect={setFilter} theme={theme} />
+      {/* Rozbalovací fulltextové vyhledávání */}
+      {searchOpen && (
+        <View
+          style={[
+            styles.searchBarContainer,
+            {
+              backgroundColor: theme.background,
+              borderBottomColor: theme.border,
+            },
+          ]}
+        >
+          <View
+            style={[
+              styles.searchInputWrap,
+              { backgroundColor: theme.surface, borderColor: theme.border },
+            ]}
+          >
+            <Ionicons name="search-outline" size={18} color={theme.textMuted} />
+            <TextInput
+              value={searchQuery}
+              onChangeText={setSearchQuery}
+              placeholder="Hledat film, koncert, divadlo, místo..."
+              placeholderTextColor={theme.textMuted}
+              style={[styles.searchInput, { color: theme.text }]}
+              autoFocus
+              returnKeyType="search"
+              clearButtonMode="while-editing"
+            />
+            {searchQuery.length > 0 && (
+              <Pressable
+                onPress={() => setSearchQuery('')}
+                hitSlop={8}
+                accessibilityLabel="Vymazat hledání"
+              >
+                <Ionicons name="close-circle" size={18} color={theme.textMuted} />
+              </Pressable>
+            )}
+          </View>
+        </View>
+      )}
+
+      {/* Dvouúrovňové filtry: Kategorie + Města */}
+      <FilterChips
+        selectedCategory={categoryFilter}
+        onSelectCategory={setCategoryFilter}
+        selectedCities={selectedCities}
+        onToggleCity={handleToggleCity}
+        theme={theme}
+      />
 
       {/* Aktivní obrazovka */}
       <View style={styles.screenContainer}>
@@ -154,7 +271,9 @@ function MainApp() {
             payload={payload}
             origin={origin}
             syncNote={syncNote}
-            filter={filter}
+            categoryFilter={categoryFilter}
+            selectedCities={selectedCities}
+            searchQuery={searchQuery}
             refreshing={refreshing}
             onRefresh={handleRefresh}
             nowMs={nowMs}
@@ -165,7 +284,9 @@ function MainApp() {
             payload={payload}
             origin={origin}
             syncNote={syncNote}
-            filter={filter}
+            categoryFilter={categoryFilter}
+            selectedCities={selectedCities}
+            searchQuery={searchQuery}
             refreshing={refreshing}
             onRefresh={handleRefresh}
             nowMs={nowMs}
@@ -252,15 +373,15 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     paddingHorizontal: 16,
     paddingTop: 8,
-    paddingBottom: 12,
+    paddingBottom: 11,
     borderBottomWidth: 1,
-    gap: 12,
+    gap: 10,
   },
   headerTitles: {
     flex: 1,
   },
   appTitle: {
-    fontSize: 22,
+    fontSize: 21,
     fontWeight: '800',
     letterSpacing: -0.3,
   },
@@ -270,15 +391,34 @@ const styles = StyleSheet.create({
   },
   headerActions: {
     flexDirection: 'row',
-    gap: 8,
+    gap: 7,
   },
   iconButton: {
-    width: 38,
-    height: 38,
-    borderRadius: 12,
+    width: 36,
+    height: 36,
+    borderRadius: 11,
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  searchBarContainer: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+  },
+  searchInputWrap: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    paddingHorizontal: 12,
+    height: 40,
+    borderRadius: 12,
+    borderWidth: 1,
+  },
+  searchInput: {
+    flex: 1,
+    fontSize: 14,
+    paddingVertical: 0,
   },
   screenContainer: {
     flex: 1,

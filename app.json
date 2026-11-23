@@ -25,6 +25,12 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0f762156-4ead-4f53-8cc9-b95ab07f8d2e"
+      }
+    },
+    "owner": "credance"
   }
 }

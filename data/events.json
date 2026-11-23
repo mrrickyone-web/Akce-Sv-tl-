@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-23T13:05:56.761Z",
+  "lastUpdated": "2026-11-23T18:46:53.412Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.8,
-    "kidsPoolTempC": 32.8,
+    "poolTempC": 27.7,
+    "kidsPoolTempC": 33.1,
     "poolOccupancy": {
-      "occupied": 23,
+      "occupied": 20,
       "capacity": 116
     },
     "saunaOccupancy": {
-      "occupied": 2,
+      "occupied": 12,
       "capacity": 30
     },
     "sourceUrl": "https://www.brodskasportovni.cz/plavecky-bazen-sauna/"
@@ -30,74 +30,6 @@
       "endIso": "2026-11-23T06:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "ledec-2026-11-23-0800-3d-tisk-pro-seniory",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "SVČ Ledeč n. S.",
-      "title": "3D tisk pro seniory",
-      "subtitle": "Probíhá do 26. 11.",
-      "date": "2026-11-23",
-      "startTime": "08:00",
-      "startIso": "2026-11-23T07:00:00.000Z",
-      "endIso": "2026-11-23T09:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/3d-tisk-pro-seniory/",
-      "sourceUrl": "https://www.ledecsko.cz/event/3d-tisk-pro-seniory/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/11/IMG_1530-scaled.jpeg"
-    },
-    {
-      "id": "ledec-2026-11-23-0800-kalendar-akci-sportovniho-klubu-sportyfi",
-      "category": "sport",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Ledeč nad Sázavou",
-      "title": "Kalendář akcí sportovního klubu Sportyfive",
-      "subtitle": "Probíhá do 30. 11.",
-      "date": "2026-11-23",
-      "startTime": "08:00",
-      "startIso": "2026-11-23T07:00:00.000Z",
-      "endIso": "2026-11-23T09:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/kalendar-akci-sportovniho-klubu-sportyfive/",
-      "sourceUrl": "https://www.ledecsko.cz/event/kalendar-akci-sportovniho-klubu-sportyfive/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/09/SPORTYFIVE_letak_kalendar_2026_2027-scaled.jpg"
-    },
-    {
-      "id": "ledec-2026-11-23-0800-vystava-skla-a-obrazu-anton-strban",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Hrad Ledeč n. S.",
-      "title": "Výstava skla a obrazů- Anton Štrbáň",
-      "subtitle": "Probíhá do 30. 11.",
-      "date": "2026-11-23",
-      "startTime": "08:00",
-      "startIso": "2026-11-23T07:00:00.000Z",
-      "endIso": "2026-11-23T09:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/vystava-skla-a-obrazu-anton-strban/",
-      "sourceUrl": "https://www.ledecsko.cz/event/vystava-skla-a-obrazu-anton-strban/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/09/Strban.jpg"
-    },
-    {
-      "id": "ledec-2026-11-23-0900-dopoledni-plavani-pro-seniory",
-      "category": "sport",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Intex Aréna",
-      "title": "Dopolední plavání pro seniory",
-      "subtitle": "Probíhá do 21. 12.",
-      "date": "2026-11-23",
-      "startTime": "09:00",
-      "startIso": "2026-11-23T08:00:00.000Z",
-      "endIso": "2026-11-23T10:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/dopoledni-plavani-pro-seniory/",
-      "sourceUrl": "https://www.ledecsko.cz/event/dopoledni-plavani-pro-seniory/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/10/Fotografie-na-celou-stranku-rotated.jpg"
     },
     {
       "id": "svetla-kytice-133357",
@@ -133,23 +65,6 @@
       "url": "https://humpolec.cz/akce/tovarna-na-krasno/",
       "sourceUrl": "https://humpolec.cz/akce/tovarna-na-krasno/",
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/tovarna-450x300.jpg.webp"
-    },
-    {
-      "id": "ledec-2026-11-23-1000-silovy-trenink-pro-seniory",
-      "category": "sport",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Intex Aréna",
-      "title": "Silový trénink pro seniory",
-      "subtitle": "Probíhá do 21. 12.",
-      "date": "2026-11-23",
-      "startTime": "10:00",
-      "startIso": "2026-11-23T09:00:00.000Z",
-      "endIso": "2026-11-23T11:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/silovy-trenink-pro-seniory/",
-      "sourceUrl": "https://www.ledecsko.cz/event/silovy-trenink-pro-seniory/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/10/4444444444444444-rotated.jpg"
     },
     {
       "id": "humpolec-culture-2026-11-23-1300-boty-plne-fantazie",
@@ -302,23 +217,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "ledec-2026-11-24-0700-vystava-velkoformatovych-fotografii",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Háta o.p.s.",
-      "title": "Výstava velkoformátových fotografií",
-      "subtitle": "Probíhá do 24. 12.",
-      "date": "2026-11-24",
-      "startTime": "07:00",
-      "startIso": "2026-11-24T06:00:00.000Z",
-      "endIso": "2026-11-24T08:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/vystava-velkoformatovych-fotografii/",
-      "sourceUrl": "https://www.ledecsko.cz/event/vystava-velkoformatovych-fotografii/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/11/Vystava-velkoformatovych-fotografii-2026-1.jpg"
-    },
-    {
       "id": "svetla-kytice-136617",
       "category": "culture",
       "subcategory": "event",
@@ -398,24 +296,6 @@
       "url": "https://humpolec.cz/akce/workshop-pro-rodice-muj-svet-online-socialni-site-a-algoritmy/",
       "sourceUrl": "https://humpolec.cz/akce/workshop-pro-rodice-muj-svet-online-socialni-site-a-algoritmy/",
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/Workshop_Humpolec_final-1-450x300.png.webp"
-    },
-    {
-      "id": "ledec-2026-11-24-1700-beseda-voli-se-v-usa-demokraticky-zrusen",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Knihovna Ledeč nad Sázavou",
-      "title": "Beseda: Volí se v USA demokraticky? ZRUŠENO",
-      "subtitle": "<p>Beseda je zrušena.</p>\\n",
-      "date": "2026-11-24",
-      "startTime": "17:00",
-      "endTime": "18:00",
-      "startIso": "2026-11-24T16:00:00.000Z",
-      "endIso": "2026-11-24T17:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/beseda-voli-se-v-usa-demokraticky/",
-      "sourceUrl": "https://www.ledecsko.cz/event/beseda-voli-se-v-usa-demokraticky/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/10/Beseda-Michal-Kamp.jpg"
     },
     {
       "id": "hb-kdostrov-2026-11-24-1900-tiki-taka-na-cestach",
@@ -1229,23 +1109,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "ledec-2026-11-29-1400-betlemy",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Husův sbor",
-      "title": "Betlémy",
-      "subtitle": "Probíhá do 6. 1.",
-      "date": "2026-11-29",
-      "startTime": "14:00",
-      "startIso": "2026-11-29T13:00:00.000Z",
-      "endIso": "2026-11-29T15:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/betlemy/",
-      "sourceUrl": "https://www.ledecsko.cz/event/betlemy/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/11/Betlemy-sbor.jpeg"
-    },
-    {
       "id": "svetla-skating-2026-11-29-1400-1600",
       "category": "sport",
       "subcategory": "ice_skating",
@@ -1310,24 +1173,6 @@
       "endIso": "2026-11-29T16:00:00.000Z",
       "url": "https://shop.entradio.cz/event/137540",
       "sourceUrl": "https://kyticesvetla.cz/akce/52973"
-    },
-    {
-      "id": "ledec-2026-11-29-1630-privitani-adventu",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Husovo náměstí",
-      "title": "Přivítání adventu",
-      "subtitle": "<p>🎄 Přivítání adventu v Ledči nad Sázavou 🎄 Středisko volného času a Město Ledeč nad Sázavou zve na Přivítání adventu, které se uskuteční",
-      "date": "2026-11-29",
-      "startTime": "16:30",
-      "endTime": "18:00",
-      "startIso": "2026-11-29T15:30:00.000Z",
-      "endIso": "2026-11-29T17:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/privitani-adventu-4/",
-      "sourceUrl": "https://www.ledecsko.cz/event/privitani-adventu-4/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/10/ADVENT-2026-scaled.jpeg"
     },
     {
       "id": "hb-kdostrov-2026-11-29-1800-2-zaverecny-abslolventsky-ples",
@@ -1429,24 +1274,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "ledec-2026-11-30-1700-kino-bara-basikova",
-      "category": "cinema",
-      "subcategory": "movie",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "sál gymnázium Ledeč n/S",
-      "title": "Kino: Bára Basiková",
-      "subtitle": "<p>KINO V LEDČI NAD SÁZAVOU Město Ledeč nad Sázavou vás zve na promítání dokumentárního filmu BÁRA BASIKOVÁ z cyklu Heleny Třeštíkové 50 let",
-      "date": "2026-11-30",
-      "startTime": "17:00",
-      "endTime": "18:30",
-      "startIso": "2026-11-30T16:00:00.000Z",
-      "endIso": "2026-11-30T17:30:00.000Z",
-      "url": "https://www.ledecsko.cz/event/kino-bara-basikova/",
-      "sourceUrl": "https://www.ledecsko.cz/event/kino-bara-basikova/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/11/Basikova-kino.jpg"
-    },
-    {
       "id": "hb-pool-2026-12-01-0600-0730",
       "category": "sport",
       "subcategory": "pool",
@@ -1544,23 +1371,6 @@
       "endIso": "2026-12-02T06:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "ledec-2026-12-02-0730-vyrabeni-v-knihovne",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Městská knihovna",
-      "title": "Vyrábění v knihovně",
-      "date": "2026-12-02",
-      "startTime": "07:30",
-      "endTime": "16:00",
-      "startIso": "2026-12-02T06:30:00.000Z",
-      "endIso": "2026-12-02T15:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/vyrabeni-v-knihovne/",
-      "sourceUrl": "https://www.ledecsko.cz/event/vyrabeni-v-knihovne/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/11/vyrabeni-v-knihovne.jpg"
     },
     {
       "id": "hb-sauna-2026-12-02-1000-1300",
@@ -1810,23 +1620,6 @@
       "endIso": "2026-12-04T06:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "ledec-2026-12-04-0800-vanocni-vystava",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "ledec",
-      "cityName": "Ledeč nad Sázavou",
-      "venue": "Hrad Ledeč n. S.",
-      "title": "Vánoční výstava",
-      "subtitle": "Probíhá do 3. 1.",
-      "date": "2026-12-04",
-      "startTime": "08:00",
-      "startIso": "2026-12-04T07:00:00.000Z",
-      "endIso": "2026-12-04T09:00:00.000Z",
-      "url": "https://www.ledecsko.cz/event/vanocni-vystava-od-dob-monarchie-az-po-90-leta/",
-      "sourceUrl": "https://www.ledecsko.cz/event/vanocni-vystava-od-dob-monarchie-az-po-90-leta/",
-      "imageUrl": "https://www.ledecsko.cz/wp-content/uploads/2026/11/vanocni-vystava-2.jpg"
     },
     {
       "id": "hb-sauna-2026-12-04-1400-2100",
@@ -2526,6 +2319,21 @@
       "imageUrl": "https://attendio-library.attendio.online/217404fc0e3b951c74c3639a82c87df147c47d7b.jpg"
     },
     {
+      "id": "svetla-kytice-141537",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "KD Kytice (Knihovna)",
+      "title": "Vánoční tvoření v knihovně",
+      "date": "2026-12-16",
+      "startTime": "14:00",
+      "startIso": "2026-12-16T13:00:00.000Z",
+      "endIso": "2026-12-16T15:00:00.000Z",
+      "url": "https://shop.entradio.cz/event/141537",
+      "sourceUrl": "https://kyticesvetla.cz/akce/54457"
+    },
+    {
       "id": "hb-kluboko-2026-12-16-1800-labile-bones-cvicenci-za-carou",
       "category": "culture",
       "subcategory": "event",
@@ -2818,7 +2626,7 @@
       "label": "Světlá – KD Kytice / Kivadlo (kino a kultura)",
       "url": "https://kyticesvetla.cz/kultura",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "svetla_mesto": {
       "id": "svetla_mesto",
@@ -2873,8 +2681,9 @@
       "city": "ledec",
       "label": "Ledeč nad Sázavou – Kalendář Ledečsko.cz",
       "url": "https://www.ledecsko.cz/events/",
-      "ok": true,
-      "count": 12
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 403 Forbidden for https://www.ledecsko.cz/events/"
     },
     "humpolec_kino": {
       "id": "humpolec_kino",

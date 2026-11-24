@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-24T12:57:05.116Z",
+  "lastUpdated": "2026-11-24T18:45:54.037Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.8,
-    "kidsPoolTempC": 32.9,
+    "poolTempC": 27.6,
+    "kidsPoolTempC": 31.2,
     "poolOccupancy": {
-      "occupied": 29,
+      "occupied": 19,
       "capacity": 116
     },
     "saunaOccupancy": {
-      "occupied": 0,
+      "occupied": 14,
       "capacity": 30
     },
     "sourceUrl": "https://www.brodskasportovni.cz/plavecky-bazen-sauna/"
@@ -181,23 +181,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "humpolec-culture-2026-11-24-1630-techtle-mechtle-christmas-show-ticha-noc",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Kino Humpolec",
-      "title": "Techtle Mechtle – Christmas show – Tichá noc? Ani náhodou!",
-      "subtitle": "590 Kč (na místě 640 Kč)",
-      "date": "2026-11-24",
-      "startTime": "16:30",
-      "startIso": "2026-11-24T15:30:00.000Z",
-      "endIso": "2026-11-24T17:30:00.000Z",
-      "url": "https://www.smsticket.cz/vstupenky/67606-techtle-mechtle-christmas-show-ticha-noc-ani-nahodou-kino-humpolec",
-      "sourceUrl": "https://humpolec.cz/akce/techtle-mechtle-christmas-show-ticha-noc-ani-nahodou/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/02/A2_christmas_show-450x300.jpg.webp"
-    },
-    {
       "id": "humpolec-culture-2026-11-24-1630-workshop-pro-rodice-muj-svet-online-soci",
       "category": "culture",
       "subcategory": "event",
@@ -280,6 +263,23 @@
       "url": "https://shop.entradio.cz/event/129441",
       "sourceUrl": "https://kyticesvetla.cz/akce/49406",
       "imageUrl": "https://attendio-library.attendio.online/76e6feeb2d51d3bb358abe6307ce0ab45d6ec5a9.png"
+    },
+    {
+      "id": "humpolec-culture-2026-11-24-1930-techtle-mechtle-christmas-show-ticha-noc",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Kino Humpolec",
+      "title": "Techtle Mechtle – Christmas show – Tichá noc? Ani náhodou!",
+      "subtitle": "590 Kč (na místě 640 Kč)",
+      "date": "2026-11-24",
+      "startTime": "19:30",
+      "startIso": "2026-11-24T18:30:00.000Z",
+      "endIso": "2026-11-24T20:30:00.000Z",
+      "url": "https://www.smsticket.cz/vstupenky/67606-techtle-mechtle-christmas-show-ticha-noc-ani-nahodou-kino-humpolec",
+      "sourceUrl": "https://humpolec.cz/akce/techtle-mechtle-christmas-show-ticha-noc-ani-nahodou/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/02/A2_christmas_show-450x300.jpg.webp"
     },
     {
       "id": "hb-pool-2026-11-25-0600-0730",
@@ -563,24 +563,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "svetla-mesto-2026-11-27-kreativni-vila-tvoreni-pro-vsechny",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Světlá nad Sázavou",
-      "title": "Kreativní vila - Tvoření pro všechny",
-      "subtitle": "Doporučené",
-      "date": "2026-11-27",
-      "startTime": "14:30",
-      "endTime": "18:30",
-      "startIso": "2026-11-27T13:30:00.000Z",
-      "endIso": "2026-11-27T17:30:00.000Z",
-      "url": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
-      "sourceUrl": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
-      "imageUrl": "https://www.svetlans.cz/image/4671275/600/600/"
-    },
-    {
       "id": "svetla-kytice-133291",
       "category": "culture",
       "subcategory": "event",
@@ -858,41 +840,6 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/53016"
     },
     {
-      "id": "svetla-mesto-2026-11-28-advent-ve-svetle",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Světlá nad Sázavou",
-      "title": "Advent ve Světlé",
-      "subtitle": "Doporučené • Probíhá do 28. 12.",
-      "date": "2026-11-28",
-      "startTime": "14:30",
-      "endTime": "15:00",
-      "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T14:00:00.000Z",
-      "url": "https://www.svetlans.cz/advent-ve-svetle",
-      "sourceUrl": "https://www.svetlans.cz/advent-ve-svetle",
-      "imageUrl": "https://www.svetlans.cz/image/4666109/600/600/"
-    },
-    {
-      "id": "svetla-skating-2026-11-28-1430-1630",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-11-28",
-      "startTime": "14:30",
-      "endTime": "16:30",
-      "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T15:30:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-4",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
-    },
-    {
       "id": "hb-mdko-culture-2026-11-28-1500-vanoce-s-kalamajkou",
       "category": "culture",
       "subcategory": "theatre",
@@ -1089,23 +1036,6 @@
       "endIso": "2026-11-29T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "svetla-skating-2026-11-29-1400-1600",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-11-29",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "startIso": "2026-11-29T13:00:00.000Z",
-      "endIso": "2026-11-29T15:00:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-5",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-5",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
     },
     {
       "id": "hb-mdko-cinema-2026-11-29-1430-hexe-magicky-svet-3d",
@@ -1731,23 +1661,6 @@
       "note": "Mikuláššské plavání pro rodiny",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "svetla-skating-2026-12-05-1515-1715",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-12-05",
-      "startTime": "15:15",
-      "endTime": "17:15",
-      "startIso": "2026-12-05T14:15:00.000Z",
-      "endIso": "2026-12-05T16:15:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-7",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-7",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
     },
     {
       "id": "hb-pool-2026-12-05-1530-2130",
@@ -2480,18 +2393,18 @@
       "imageUrl": "https://attendio-library.attendio.online/ba4ee01d6bcf90fb916828c88134127db36052a8.png"
     },
     {
-      "id": "hb-kluboko-2026-12-19-2000-vanocni-koncert-kejvavy-kone",
+      "id": "hb-kluboko-2026-12-19-2100-vanocni-koncert-kejvavy-kone",
       "category": "culture",
       "subcategory": "concert",
       "city": "hb",
       "cityName": "Havlíčkův Brod",
       "venue": "Klub Oko",
       "title": "Vánoční koncert KEJVAVÝ KONĚ",
-      "subtitle": "Velký sál · Koncert • Vstupné: 200,-",
+      "subtitle": "Velký sál · Koncert • Vstupné: 250,-",
       "date": "2026-12-19",
-      "startTime": "20:00",
-      "startIso": "2026-12-19T19:00:00.000Z",
-      "endIso": "2026-12-19T22:00:00.000Z",
+      "startTime": "21:00",
+      "startIso": "2026-12-19T20:00:00.000Z",
+      "endIso": "2026-12-19T23:00:00.000Z",
       "url": "https://kluboko.cz/detail-akce/811-19-12-vanocni-koncert-kejvavy-kone",
       "sourceUrl": "https://kluboko.cz/detail-akce/811-19-12-vanocni-koncert-kejvavy-kone"
     },
@@ -2577,14 +2490,14 @@
       "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/1c1ffe14aedab01667e05ccb7647695144900613-468x569.jpg"
     },
     {
-      "id": "hb-kluboko-2026-12-25-2000-vanocni-nasrot",
+      "id": "hb-kluboko-2026-12-25-2000-vanocni-unplugged-koncert",
       "category": "culture",
       "subcategory": "concert",
       "city": "hb",
       "cityName": "Havlíčkův Brod",
       "venue": "Klub Oko",
-      "title": "Vánoční Našrot",
-      "subtitle": "Velký sál · Koncert",
+      "title": "VÁNOČNÍ UNPLUGGED KONCERT",
+      "subtitle": "Velký sál · Koncert • Vstupné: 300,-",
       "date": "2026-12-25",
       "startTime": "20:00",
       "startIso": "2026-12-25T19:00:00.000Z",
@@ -2599,8 +2512,9 @@
       "city": "svetla",
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
-      "ok": true,
-      "count": 3
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     },
     "svetla_kytice": {
       "id": "svetla_kytice",
@@ -2615,8 +2529,9 @@
       "city": "svetla",
       "label": "Světlá – Kalendář města (svetlans.cz)",
       "url": "https://www.svetlans.cz/kalendar-udalosti",
-      "ok": true,
-      "count": 3
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     },
     "hb_pool": {
       "id": "hb_pool",

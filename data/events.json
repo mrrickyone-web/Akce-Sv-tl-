@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-24T06:54:43.740Z",
+  "lastUpdated": "2026-11-24T12:57:05.116Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.9,
-    "kidsPoolTempC": 32.8,
+    "poolTempC": 27.8,
+    "kidsPoolTempC": 32.9,
     "poolOccupancy": {
-      "occupied": 0,
+      "occupied": 29,
       "capacity": 116
     },
     "saunaOccupancy": {
@@ -313,6 +313,22 @@
       "endIso": "2026-11-25T12:00:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
+    },
+    {
+      "id": "humpolec-culture-2026-11-25-1000-putovani-za-predky",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Skanzen Zichpil",
+      "title": "Putování za předky",
+      "date": "2026-11-25",
+      "startTime": "10:00",
+      "startIso": "2026-11-25T09:00:00.000Z",
+      "endIso": "2026-11-25T11:00:00.000Z",
+      "url": "https://humpolec.cz/akce/putovani-za-predky/",
+      "sourceUrl": "https://humpolec.cz/akce/putovani-za-predky/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/02/DSC_2418-450x300.jpg.webp"
     },
     {
       "id": "hb-sauna-2026-11-25-1400-2100",
@@ -1815,23 +1831,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "svetla-skating-2026-12-06-1415-1545",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-12-06",
-      "startTime": "14:15",
-      "endTime": "15:45",
-      "startIso": "2026-12-06T13:15:00.000Z",
-      "endIso": "2026-12-06T14:45:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-6",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-6",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
-    },
-    {
       "id": "hb-pool-2026-12-06-1430-2130",
       "category": "sport",
       "subcategory": "pool",
@@ -2544,6 +2543,23 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/50606"
     },
     {
+      "id": "svetla-kytice-141936",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "KD Kytice (Kivadlo – Kinosál)",
+      "title": "Ebenezer: Vánoční koleda",
+      "subtitle": "Český dabing • dopo kino",
+      "date": "2026-12-21",
+      "startTime": "10:15",
+      "startIso": "2026-12-21T09:15:00.000Z",
+      "endIso": "2026-12-21T11:15:00.000Z",
+      "url": "https://shop.entradio.cz/event/141936",
+      "sourceUrl": "https://kyticesvetla.cz/akce/50103",
+      "imageUrl": "https://attendio-library.attendio.online/44b7688217df6602e4a6def7a1618e933320ebe1.jpg"
+    },
+    {
       "id": "hb-kdostrov-2026-12-25-1900-stepanska-zabava",
       "category": "culture",
       "subcategory": "event",
@@ -2584,7 +2600,7 @@
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     "svetla_kytice": {
       "id": "svetla_kytice",
@@ -2592,7 +2608,7 @@
       "label": "Světlá – KD Kytice / Kivadlo (kino a kultura)",
       "url": "https://kyticesvetla.cz/kultura",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "svetla_mesto": {
       "id": "svetla_mesto",
@@ -2665,7 +2681,7 @@
       "label": "Humpolec – Kulturní akce (MěKIS)",
       "url": "https://humpolec.cz/akce/",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "hb_pool_status": {
       "id": "hb_pool_status",

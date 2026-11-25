@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-25T06:57:39.068Z",
+  "lastUpdated": "2026-11-25T12:58:57.350Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.9,
-    "kidsPoolTempC": 32.6,
+    "poolTempC": 27.1,
+    "kidsPoolTempC": 32.9,
     "poolOccupancy": {
       "occupied": 0,
       "capacity": 116
@@ -130,23 +130,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "hb-kdostrov-2026-11-24-1900-tiki-taka-na-cestach",
-      "category": "culture",
-      "subcategory": "concert",
-      "city": "hb",
-      "cityName": "Havlíčkův Brod",
-      "venue": "KD Ostrov",
-      "title": "TIKI TAKA NA CESTÁCH",
-      "subtitle": "Koncerty",
-      "date": "2026-11-24",
-      "startTime": "19:00",
-      "startIso": "2026-11-24T18:00:00.000Z",
-      "endIso": "2026-11-24T20:30:00.000Z",
-      "url": "https://www.kdostrov.cz/tiki-taka",
-      "sourceUrl": "https://www.kdostrov.cz/tiki-taka",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/02e0dd5ab74f6d36ebab476277045f18317918ad-457x569.jpg"
-    },
-    {
       "id": "hb-pool-2026-11-25-0600-0730",
       "category": "sport",
       "subcategory": "pool",
@@ -263,7 +246,7 @@
       "endIso": "2026-11-25T18:10:00.000Z",
       "url": "https://prodej2.disdata.cz/(S(fvbxuezlvvdbr2wpux4zyxo2))/akce3.aspx?id=qCodbBlwCcjb5TXFT6nI7w",
       "sourceUrl": "https://mdko.cz/program-kina/hexe-magicky-svet.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7943.jpg?m=1794336342"
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7976.jpg?m=1795591480"
     },
     {
       "id": "hb-pool-2026-11-25-1745-2130",
@@ -498,6 +481,24 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "svetla-mesto-2026-11-27-kreativni-vila-tvoreni-pro-vsechny",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Světlá nad Sázavou",
+      "title": "Kreativní vila - Tvoření pro všechny",
+      "subtitle": "Doporučené",
+      "date": "2026-11-27",
+      "startTime": "14:30",
+      "endTime": "18:30",
+      "startIso": "2026-11-27T13:30:00.000Z",
+      "endIso": "2026-11-27T17:30:00.000Z",
+      "url": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
+      "sourceUrl": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
+      "imageUrl": "https://www.svetlans.cz/image/4671275/600/600/"
+    },
+    {
       "id": "svetla-kytice-133291",
       "category": "culture",
       "subcategory": "event",
@@ -543,7 +544,7 @@
       "endIso": "2026-11-27T18:45:00.000Z",
       "url": "https://prodej2.disdata.cz/(S(fvbxuezlvvdbr2wpux4zyxo2))/akce3.aspx?id=CzMKicjdwsgu2ouiM0LPZA",
       "sourceUrl": "https://mdko.cz/program-kina/vsichni-fotri-jsou-lotri.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7945.jpg?m=1794336870"
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7978.jpg?m=1795591627"
     },
     {
       "id": "svetla-kytice-133034",
@@ -658,7 +659,7 @@
       "endIso": "2026-11-27T20:35:00.000Z",
       "url": "https://prodej2.disdata.cz/(S(fvbxuezlvvdbr2wpux4zyxo2))/akce3.aspx?id=wpJGXq79WTTigDoQz0IdYA",
       "sourceUrl": "https://mdko.cz/program-kina/neco-jako-rodina.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7946.jpg?m=1794337406"
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7977.jpg?m=1795591511"
     },
     {
       "id": "hb-pool-2026-11-28-0900-1100",
@@ -773,6 +774,41 @@
       "endIso": "2026-11-28T15:00:00.000Z",
       "url": "https://shop.entradio.cz/event/137598",
       "sourceUrl": "https://kyticesvetla.cz/akce/53016"
+    },
+    {
+      "id": "svetla-mesto-2026-11-28-advent-ve-svetle",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Světlá nad Sázavou",
+      "title": "Advent ve Světlé",
+      "subtitle": "Doporučené • Probíhá do 28. 12.",
+      "date": "2026-11-28",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "startIso": "2026-11-28T13:30:00.000Z",
+      "endIso": "2026-11-28T14:00:00.000Z",
+      "url": "https://www.svetlans.cz/advent-ve-svetle",
+      "sourceUrl": "https://www.svetlans.cz/advent-ve-svetle",
+      "imageUrl": "https://www.svetlans.cz/image/4666109/600/600/"
+    },
+    {
+      "id": "svetla-skating-2026-11-28-1430-1630",
+      "category": "sport",
+      "subcategory": "ice_skating",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Zimní stadion Pěšinky",
+      "title": "Veřejné bruslení",
+      "date": "2026-11-28",
+      "startTime": "14:30",
+      "endTime": "16:30",
+      "startIso": "2026-11-28T13:30:00.000Z",
+      "endIso": "2026-11-28T15:30:00.000Z",
+      "url": "https://www.pesinky.cz/verejne-brusleni-4",
+      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
+      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
     },
     {
       "id": "hb-mdko-culture-2026-11-28-1500-vanoce-s-kalamajkou",
@@ -973,6 +1009,23 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "svetla-skating-2026-11-29-1400-1600",
+      "category": "sport",
+      "subcategory": "ice_skating",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Zimní stadion Pěšinky",
+      "title": "Veřejné bruslení",
+      "date": "2026-11-29",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "startIso": "2026-11-29T13:00:00.000Z",
+      "endIso": "2026-11-29T15:00:00.000Z",
+      "url": "https://www.pesinky.cz/verejne-brusleni-5",
+      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-5",
+      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
+    },
+    {
       "id": "hb-mdko-cinema-2026-11-29-1430-hexe-magicky-svet-3d",
       "category": "cinema",
       "subcategory": "movie",
@@ -987,7 +1040,7 @@
       "endIso": "2026-11-29T15:10:00.000Z",
       "url": "https://prodej2.disdata.cz/(S(fvbxuezlvvdbr2wpux4zyxo2))/akce3.aspx?id=d8NSAHVzp2fo%2f19END%2fMiw",
       "sourceUrl": "https://mdko.cz/program-kina/hexe-magicky-svet-3d.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7944.jpg?m=1794336378"
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7974.jpg?m=1795591346"
     },
     {
       "id": "humpolec-cinema-2026-11-29-1500-santova-kouzelna-dilna",
@@ -1039,21 +1092,20 @@
       "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/76a5f975f98ac0be50dd3096635037b8bd03b167-467x568.jpg"
     },
     {
-      "id": "humpolec-culture-2026-11-29-1800-vanocni-vystava-betlemu-ze-sbirky-josefa",
+      "id": "humpolec-culture-2026-11-29-1800-putovani-za-hadankou",
       "category": "culture",
-      "subcategory": "exhibition",
+      "subcategory": "event",
       "city": "humpolec",
       "cityName": "Humpolec",
-      "venue": "Horní náměstí 273",
-      "title": "Vánoční výstava betlémů ze sbírky Josefa Horkého",
-      "subtitle": "20 Kč • Probíhá do 27. 12.",
+      "venue": "SVČ Humpolec",
+      "title": "Putování za hádankou",
       "date": "2026-11-29",
       "startTime": "18:00",
       "startIso": "2026-11-29T17:00:00.000Z",
       "endIso": "2026-11-29T19:00:00.000Z",
-      "url": "https://humpolec.cz/akce/vanocni-vystava-betlemu-ze-sbirky-josefa-horkeho/",
-      "sourceUrl": "https://humpolec.cz/akce/vanocni-vystava-betlemu-ze-sbirky-josefa-horkeho/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/07/1-450x300.png.webp"
+      "url": "https://humpolec.cz/akce/putovani-za-hadankou/",
+      "sourceUrl": "https://humpolec.cz/akce/putovani-za-hadankou/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/370-450x300.jpg.webp"
     },
     {
       "id": "humpolec-cinema-2026-11-29-1900-neco-jako-rodina",
@@ -1534,6 +1586,40 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-04-1730-asterix-a-obelix-kralovstvi-nubie",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Asterix a Obelix: Království Núbie",
+      "subtitle": "Animovaný, dobrodružný / dabing • Vstupné: 160,- / přístupné / 86 min.",
+      "date": "2026-12-04",
+      "startTime": "17:30",
+      "startIso": "2026-12-04T16:30:00.000Z",
+      "endIso": "2026-12-04T17:56:00.000Z",
+      "url": "https://mdko.cz/program-kina/asterix-a-obelix-kralovstvi-nubie.html",
+      "sourceUrl": "https://mdko.cz/program-kina/asterix-a-obelix-kralovstvi-nubie.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7979.jpg?m=1795600617"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-04-1930-silena-noc-2",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Šílená noc 2",
+      "subtitle": "Akční, Komedie / titulky • Vstupné: 180,- / od 15 let / 110 min.",
+      "date": "2026-12-04",
+      "startTime": "19:30",
+      "startIso": "2026-12-04T18:30:00.000Z",
+      "endIso": "2026-12-04T20:20:00.000Z",
+      "url": "https://mdko.cz/program-kina/silena-noc-2.html",
+      "sourceUrl": "https://mdko.cz/program-kina/silena-noc-2.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7980.jpg?m=1795600867"
+    },
+    {
       "id": "hb-kluboko-2026-12-04-2100-letni-kapela",
       "category": "culture",
       "subcategory": "concert",
@@ -1631,6 +1717,23 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-05-1800-neco-jako-rodina",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Něco jako rodina",
+      "subtitle": "Komedie • Vstupné: 180,- / od 12 let / 95 min.",
+      "date": "2026-12-05",
+      "startTime": "18:00",
+      "startIso": "2026-12-05T17:00:00.000Z",
+      "endIso": "2026-12-05T18:35:00.000Z",
+      "url": "https://mdko.cz/program-kina/neco-jako-rodina-2.html",
+      "sourceUrl": "https://mdko.cz/program-kina/neco-jako-rodina-2.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7977.jpg?m=1795591511"
+    },
+    {
       "id": "svetla-kytice-128839",
       "category": "culture",
       "subcategory": "event",
@@ -1661,6 +1764,23 @@
       "url": "https://www.kdostrov.cz/maturitni-ples-sps-havlickuv-brod",
       "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-sps-havlickuv-brod",
       "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/6a543463a52adcc718e06a82ad819940bd2bff19-468x569.jpg"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-05-2000-hunger-games-usvit-sklizne",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Hunger Games: Úsvit sklizně",
+      "subtitle": "Fantasy, Sci-fi / dabing • Vstupné: 180,- / od 12 let / 159 min.",
+      "date": "2026-12-05",
+      "startTime": "20:00",
+      "startIso": "2026-12-05T19:00:00.000Z",
+      "endIso": "2026-12-05T21:39:00.000Z",
+      "url": "https://mdko.cz/program-kina/hunger-games-usvit-sklizne-4.html",
+      "sourceUrl": "https://mdko.cz/program-kina/hunger-games-usvit-sklizne-4.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7935.jpg?m=1794320109"
     },
     {
       "id": "hb-pool-2026-12-06-1100-1300",
@@ -1744,6 +1864,23 @@
       "url": "https://shop.entradio.cz/event/138867",
       "sourceUrl": "https://kyticesvetla.cz/akce/53471",
       "imageUrl": "https://attendio-library.attendio.online/2d0addb554d40adf24519e41ac562436e1cb86e3.jpg"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-06-1900-zeny-v-lihu",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Ženy v lihu",
+      "subtitle": "Komedie • Vstupné: 180,- / od 12 let / 93 min.",
+      "date": "2026-12-06",
+      "startTime": "19:00",
+      "startIso": "2026-12-06T18:00:00.000Z",
+      "endIso": "2026-12-06T19:33:00.000Z",
+      "url": "https://mdko.cz/program-kina/zeny-v-lihu-3.html",
+      "sourceUrl": "https://mdko.cz/program-kina/zeny-v-lihu-3.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7928.jpg?m=1794319451"
     },
     {
       "id": "svetla-kytice-121648",
@@ -1933,6 +2070,40 @@
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7368.jpg?m=1776675606"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-10-1700-biograf-sen-dokonaly-den",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Biograf SEN: Dokonalý den",
+      "subtitle": "Komedie • Vstupné: 80,- / přístupný /89 min.",
+      "date": "2026-12-10",
+      "startTime": "17:00",
+      "startIso": "2026-12-10T16:00:00.000Z",
+      "endIso": "2026-12-10T17:29:00.000Z",
+      "url": "https://mdko.cz/program-kina/biograf-sen-dokonaly-den.html",
+      "sourceUrl": "https://mdko.cz/program-kina/biograf-sen-dokonaly-den.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7981.jpg?m=1795601098"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-10-1930-ebenezer-vanocni-koleda",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Ebenezer: Vánoční koleda",
+      "subtitle": "Fantasy, drama / dabing • Vstupné: 180,- / od 12 let / 117 min.",
+      "date": "2026-12-10",
+      "startTime": "19:30",
+      "startIso": "2026-12-10T18:30:00.000Z",
+      "endIso": "2026-12-10T20:27:00.000Z",
+      "url": "https://mdko.cz/program-kina/ebenezer-vanocni-koleda-4.html",
+      "sourceUrl": "https://mdko.cz/program-kina/ebenezer-vanocni-koleda-4.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7898.jpg?m=1793696766"
+    },
+    {
       "id": "svetla-kytice-133296",
       "category": "culture",
       "subcategory": "event",
@@ -2081,6 +2252,23 @@
       "sourceUrl": "https://kluboko.cz/detail-akce/809-12-12-kvietah-a-vcely"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-13-1500-kamenakovi",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Kameňákovi",
+      "subtitle": "Animovaný, rodinný / dabing • Vstupné: 160,- / přístupné / 94 min.",
+      "date": "2026-12-13",
+      "startTime": "15:00",
+      "startIso": "2026-12-13T14:00:00.000Z",
+      "endIso": "2026-12-13T15:34:00.000Z",
+      "url": "https://mdko.cz/program-kina/kamenakovi.html",
+      "sourceUrl": "https://mdko.cz/program-kina/kamenakovi.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7983.jpg?m=1795601402"
+    },
+    {
       "id": "svetla-kytice-121626",
       "category": "culture",
       "subcategory": "theatre",
@@ -2096,6 +2284,23 @@
       "url": "https://shop.entradio.cz/event/121626",
       "sourceUrl": "https://kyticesvetla.cz/akce/45902",
       "imageUrl": "https://attendio-library.attendio.online/5c46b87714f1675bdd29eb445d46c6ec0a94ec87.jpg"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-13-1700-drevorubec",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Dřevorubec",
+      "subtitle": "Romantický, komedie • Vstupné: 180,- / přístupné od 12 let / 98 min.",
+      "date": "2026-12-13",
+      "startTime": "17:00",
+      "startIso": "2026-12-13T16:00:00.000Z",
+      "endIso": "2026-12-13T17:38:00.000Z",
+      "url": "https://mdko.cz/program-kina/drevorubec-3.html",
+      "sourceUrl": "https://mdko.cz/program-kina/drevorubec-3.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7886.jpg?m=1793696098"
     },
     {
       "id": "hb-kdostrov-2026-12-13-1900-dance-cup-hb",
@@ -2214,6 +2419,23 @@
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7594.jpg?m=1782456405"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-17-1700-avengers-doomsday",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Avengers: Doomsday",
+      "subtitle": "Fantasy, Sci-fi / dabing • Vstupné: 180,- / od 12 let / min.",
+      "date": "2026-12-17",
+      "startTime": "17:00",
+      "startIso": "2026-12-17T16:00:00.000Z",
+      "endIso": "2026-12-17T18:00:00.000Z",
+      "url": "https://mdko.cz/program-kina/avengers-doomsday.html",
+      "sourceUrl": "https://mdko.cz/program-kina/avengers-doomsday.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7984.jpg?m=1795601754"
+    },
+    {
       "id": "humpolec-culture-2026-12-17-1700-ceska-mse-vanocni-jakuba-jana-ryby",
       "category": "culture",
       "subcategory": "concert",
@@ -2231,6 +2453,23 @@
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/10/840642408_2314348759355954_3922025362679600964_n.jpeg.webp"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-17-2000-duna-cast-treti",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Duna: Část třetí",
+      "subtitle": "Fantasy, Sci-fi / dabing • Vstupné: 180,- / od 12 let / 150 min.",
+      "date": "2026-12-17",
+      "startTime": "20:00",
+      "startIso": "2026-12-17T19:00:00.000Z",
+      "endIso": "2026-12-17T21:30:00.000Z",
+      "url": "https://mdko.cz/program-kina/duna-cast-treti.html",
+      "sourceUrl": "https://mdko.cz/program-kina/duna-cast-treti.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7985.jpg?m=1795602007"
+    },
+    {
       "id": "svetla-kytice-133297",
       "category": "culture",
       "subcategory": "event",
@@ -2244,6 +2483,40 @@
       "endIso": "2026-12-18T15:30:00.000Z",
       "url": "https://shop.entradio.cz/event/133297",
       "sourceUrl": "https://kyticesvetla.cz/akce/51306"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-18-1730-pat-a-mat-zpatky-na-venkove",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Pat a Mat: Zpátky na venkově",
+      "subtitle": "Animovaný, loutkový • Vstupné: 150,- / přístupné / 65 min.",
+      "date": "2026-12-18",
+      "startTime": "17:30",
+      "startIso": "2026-12-18T16:30:00.000Z",
+      "endIso": "2026-12-18T17:35:00.000Z",
+      "url": "https://mdko.cz/program-kina/pat-a-mat-zpatky-na-venkove-7.html",
+      "sourceUrl": "https://mdko.cz/program-kina/pat-a-mat-zpatky-na-venkove-7.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7794.jpg?m=1790757144"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-18-1900-duna-cast-treti",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Duna: Část třetí",
+      "subtitle": "Fantasy, Sci-fi / titulky • Vstupné: 180,- / od 12 let / 150 min.",
+      "date": "2026-12-18",
+      "startTime": "19:00",
+      "startIso": "2026-12-18T18:00:00.000Z",
+      "endIso": "2026-12-18T20:30:00.000Z",
+      "url": "https://mdko.cz/program-kina/duna-cast-treti-2.html",
+      "sourceUrl": "https://mdko.cz/program-kina/duna-cast-treti-2.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7985.jpg?m=1795602007"
     },
     {
       "id": "hb-kdostrov-2026-12-18-1900-maturitni-ples-gymnazium-chotebor",
@@ -2326,6 +2599,23 @@
       "endIso": "2026-12-19T11:00:00.000Z",
       "url": "https://shop.entradio.cz/event/137757",
       "sourceUrl": "https://kyticesvetla.cz/akce/53058"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-19-1500-hexe-magicky-svet-3d",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Hexe: Magický svět - 3D",
+      "subtitle": "Animovaný, dobrodružný / dabing • Vstupné: 160,- / přístupné / 100 min.",
+      "date": "2026-12-19",
+      "startTime": "15:00",
+      "startIso": "2026-12-19T14:00:00.000Z",
+      "endIso": "2026-12-19T15:40:00.000Z",
+      "url": "https://mdko.cz/program-kina/hexe-magicky-svet-3d-2.html",
+      "sourceUrl": "https://mdko.cz/program-kina/hexe-magicky-svet-3d-2.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7974.jpg?m=1795591346"
     },
     {
       "id": "svetla-kytice-140123",
@@ -2464,9 +2754,8 @@
       "city": "svetla",
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 2
     },
     "svetla_kytice": {
       "id": "svetla_kytice",
@@ -2481,9 +2770,8 @@
       "city": "svetla",
       "label": "Světlá – Kalendář města (svetlans.cz)",
       "url": "https://www.svetlans.cz/kalendar-udalosti",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 3
     },
     "hb_pool": {
       "id": "hb_pool",
@@ -2499,7 +2787,7 @@
       "label": "Havlíčkův Brod – Kino Ostrov (MDKO)",
       "url": "https://mdko.cz/program-kina/",
       "ok": true,
-      "count": 6
+      "count": 20
     },
     "hb_mdko_divadlo": {
       "id": "hb_mdko_divadlo",
@@ -2515,7 +2803,7 @@
       "label": "Havlíčkův Brod – KD Ostrov",
       "url": "https://www.kdostrov.cz/program",
       "ok": true,
-      "count": 14
+      "count": 13
     },
     "hb_kluboko": {
       "id": "hb_kluboko",

@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-25T00:48:29.503Z",
+  "lastUpdated": "2026-11-25T06:57:39.068Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.7,
-    "kidsPoolTempC": 32.8,
+    "poolTempC": 27.9,
+    "kidsPoolTempC": 32.6,
     "poolOccupancy": {
       "occupied": 0,
       "capacity": 116
@@ -196,6 +196,42 @@
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/02/DSC_2418-450x300.jpg.webp"
     },
     {
+      "id": "humpolec-culture-2026-11-25-1000-tovarna-na-krasno",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "8SMIČKA – zóna pro umění",
+      "title": "Továrna na krásno",
+      "subtitle": "8 Kč • Probíhá do 31. 10.",
+      "date": "2026-11-25",
+      "startTime": "10:00",
+      "endTime": "18:00",
+      "startIso": "2026-11-25T09:00:00.000Z",
+      "endIso": "2026-11-25T17:00:00.000Z",
+      "url": "https://humpolec.cz/akce/tovarna-na-krasno/",
+      "sourceUrl": "https://humpolec.cz/akce/tovarna-na-krasno/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/tovarna-450x300.jpg.webp"
+    },
+    {
+      "id": "humpolec-culture-2026-11-25-1300-boty-plne-fantazie",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Knihovna Jiřiny Zábranové",
+      "title": "Boty plné fantazie",
+      "subtitle": "zdarma • Probíhá do 30. 11.",
+      "date": "2026-11-25",
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "startIso": "2026-11-25T12:00:00.000Z",
+      "endIso": "2026-11-25T16:30:00.000Z",
+      "url": "https://humpolec.cz/akce/boty-plne-fantazie/",
+      "sourceUrl": "https://humpolec.cz/akce/boty-plne-fantazie/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/boty-2-450x300.jpeg.webp"
+    },
+    {
       "id": "hb-sauna-2026-11-25-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -244,6 +280,40 @@
       "endIso": "2026-11-25T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
+    },
+    {
+      "id": "humpolec-culture-2026-11-25-1800-janette-de-la-colette-cas-radosti",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Dolní náměstí 253",
+      "title": "Janette de la Colette – Čas radosti",
+      "subtitle": "20 Kč • Probíhá do 29. 11.",
+      "date": "2026-11-25",
+      "startTime": "18:00",
+      "startIso": "2026-11-25T17:00:00.000Z",
+      "endIso": "2026-11-25T19:00:00.000Z",
+      "url": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
+      "sourceUrl": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/07/1-450x300.png.webp"
+    },
+    {
+      "id": "humpolec-culture-2026-11-25-1800-setkani-101-km-od-prahy-petr-benda-grafi",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Horní náměstí 273",
+      "title": "Setkání 101 km od Prahy: Petr Benda – grafika | Zdeněk Šplíchal – malba a kresba",
+      "subtitle": "20 Kč • Probíhá do 25. 11.",
+      "date": "2026-11-25",
+      "startTime": "18:00",
+      "startIso": "2026-11-25T17:00:00.000Z",
+      "endIso": "2026-11-25T19:00:00.000Z",
+      "url": "https://humpolec.cz/akce/setkani-101-km-od-prahy-petr-benda-grafika-zdenek-splichal-malba-a-kresba/",
+      "sourceUrl": "https://humpolec.cz/akce/setkani-101-km-od-prahy-petr-benda-grafika-zdenek-splichal-malba-a-kresba/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/09/Splichal-Benda-vystava-450x300.png.webp"
     },
     {
       "id": "svetla-kytice-130682",
@@ -426,24 +496,6 @@
       "endIso": "2026-11-27T20:00:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "svetla-mesto-2026-11-27-kreativni-vila-tvoreni-pro-vsechny",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Světlá nad Sázavou",
-      "title": "Kreativní vila - Tvoření pro všechny",
-      "subtitle": "Doporučené",
-      "date": "2026-11-27",
-      "startTime": "14:30",
-      "endTime": "18:30",
-      "startIso": "2026-11-27T13:30:00.000Z",
-      "endIso": "2026-11-27T17:30:00.000Z",
-      "url": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
-      "sourceUrl": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
-      "imageUrl": "https://www.svetlans.cz/image/4671275/600/600/"
     },
     {
       "id": "svetla-kytice-133291",
@@ -723,41 +775,6 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/53016"
     },
     {
-      "id": "svetla-mesto-2026-11-28-advent-ve-svetle",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Světlá nad Sázavou",
-      "title": "Advent ve Světlé",
-      "subtitle": "Doporučené • Probíhá do 28. 12.",
-      "date": "2026-11-28",
-      "startTime": "14:30",
-      "endTime": "15:00",
-      "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T14:00:00.000Z",
-      "url": "https://www.svetlans.cz/advent-ve-svetle",
-      "sourceUrl": "https://www.svetlans.cz/advent-ve-svetle",
-      "imageUrl": "https://www.svetlans.cz/image/4666109/600/600/"
-    },
-    {
-      "id": "svetla-skating-2026-11-28-1430-1630",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-11-28",
-      "startTime": "14:30",
-      "endTime": "16:30",
-      "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T15:30:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-4",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
-    },
-    {
       "id": "hb-mdko-culture-2026-11-28-1500-vanoce-s-kalamajkou",
       "category": "culture",
       "subcategory": "theatre",
@@ -923,24 +940,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "humpolec-culture-2026-11-29-1130-vernisaz-a-vanocni-vystava-betlemu-v-kla",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Želivský Klášter",
-      "title": "Vernisáž a vánoční výstava betlémů v Klášteře Želiv",
-      "subtitle": "Probíhá do 15. 1.",
-      "date": "2026-11-29",
-      "startTime": "11:30",
-      "endTime": "16:00",
-      "startIso": "2026-11-29T10:30:00.000Z",
-      "endIso": "2026-11-29T15:00:00.000Z",
-      "url": "https://humpolec.cz/akce/vernisaz-a-vanocni-vystava-betlemu-v-klastere-zeliv/",
-      "sourceUrl": "https://humpolec.cz/akce/vernisaz-a-vanocni-vystava-betlemu-v-klastere-zeliv/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/10/klaster_zeliv-450x300.png.webp"
-    },
-    {
       "id": "hb-sauna-2026-11-29-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -972,41 +971,6 @@
       "endIso": "2026-11-29T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "humpolec-culture-2026-11-29-1400-linoryt-s-capkem-kurz-grafiky",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "8SMIČKA – zóna pro umění",
-      "title": "Linoryt s Čapkem #KURZ GRAFIKY",
-      "subtitle": "488 Kč",
-      "date": "2026-11-29",
-      "startTime": "14:00",
-      "endTime": "18:00",
-      "startIso": "2026-11-29T13:00:00.000Z",
-      "endIso": "2026-11-29T17:00:00.000Z",
-      "url": "https://humpolec.cz/akce/linoryt-s-capkem-kurz-grafiky/",
-      "sourceUrl": "https://humpolec.cz/akce/linoryt-s-capkem-kurz-grafiky/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/10/kurz_grafiky-450x300.jpg.webp"
-    },
-    {
-      "id": "svetla-skating-2026-11-29-1400-1600",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-11-29",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "startIso": "2026-11-29T13:00:00.000Z",
-      "endIso": "2026-11-29T15:00:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-5",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-5",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
     },
     {
       "id": "hb-mdko-cinema-2026-11-29-1430-hexe-magicky-svet-3d",
@@ -1073,22 +1037,6 @@
       "url": "https://www.kdostrov.cz/2-zaverecny-abslolventsky-ples",
       "sourceUrl": "https://www.kdostrov.cz/2-zaverecny-abslolventsky-ples",
       "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/76a5f975f98ac0be50dd3096635037b8bd03b167-467x568.jpg"
-    },
-    {
-      "id": "humpolec-culture-2026-11-29-1800-putovani-za-hadankou",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "SVČ Humpolec",
-      "title": "Putování za hádankou",
-      "date": "2026-11-29",
-      "startTime": "18:00",
-      "startIso": "2026-11-29T17:00:00.000Z",
-      "endIso": "2026-11-29T19:00:00.000Z",
-      "url": "https://humpolec.cz/akce/putovani-za-hadankou/",
-      "sourceUrl": "https://humpolec.cz/akce/putovani-za-hadankou/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/370-450x300.jpg.webp"
     },
     {
       "id": "humpolec-culture-2026-11-29-1800-vanocni-vystava-betlemu-ze-sbirky-josefa",
@@ -1665,23 +1613,6 @@
       "note": "Mikuláššské plavání pro rodiny",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "svetla-skating-2026-12-05-1515-1715",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-12-05",
-      "startTime": "15:15",
-      "endTime": "17:15",
-      "startIso": "2026-12-05T14:15:00.000Z",
-      "endIso": "2026-12-05T16:15:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-7",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-7",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
     },
     {
       "id": "hb-pool-2026-12-05-1530-2130",
@@ -2533,8 +2464,9 @@
       "city": "svetla",
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
-      "ok": true,
-      "count": 3
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     },
     "svetla_kytice": {
       "id": "svetla_kytice",
@@ -2549,8 +2481,9 @@
       "city": "svetla",
       "label": "Světlá – Kalendář města (svetlans.cz)",
       "url": "https://www.svetlans.cz/kalendar-udalosti",
-      "ok": true,
-      "count": 3
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     },
     "hb_pool": {
       "id": "hb_pool",

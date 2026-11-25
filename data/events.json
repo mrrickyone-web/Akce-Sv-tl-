@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-25T12:58:57.350Z",
+  "lastUpdated": "2026-11-25T18:39:59.157Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.1,
-    "kidsPoolTempC": 32.9,
+    "poolTempC": 27.6,
+    "kidsPoolTempC": 33,
     "poolOccupancy": {
-      "occupied": 0,
+      "occupied": 26,
       "capacity": 116
     },
     "saunaOccupancy": {
-      "occupied": 0,
+      "occupied": 16,
       "capacity": 30
     },
     "sourceUrl": "https://www.brodskasportovni.cz/plavecky-bazen-sauna/"
@@ -230,23 +230,6 @@
       "endIso": "2026-11-25T20:00:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "hb-mdko-cinema-2026-11-25-1730-hexe-magicky-svet",
-      "category": "cinema",
-      "subcategory": "movie",
-      "city": "hb",
-      "cityName": "Havlíčkův Brod",
-      "venue": "Kino Ostrov",
-      "title": "Hexe: Magický svět",
-      "subtitle": "Animovaný, dobrodružný / dabing • Vstupné: 150,- / přístupné / 100 min.",
-      "date": "2026-11-25",
-      "startTime": "17:30",
-      "startIso": "2026-11-25T16:30:00.000Z",
-      "endIso": "2026-11-25T18:10:00.000Z",
-      "url": "https://prodej2.disdata.cz/(S(fvbxuezlvvdbr2wpux4zyxo2))/akce3.aspx?id=qCodbBlwCcjb5TXFT6nI7w",
-      "sourceUrl": "https://mdko.cz/program-kina/hexe-magicky-svet.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7976.jpg?m=1795591480"
     },
     {
       "id": "hb-pool-2026-11-25-1745-2130",
@@ -481,24 +464,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "svetla-mesto-2026-11-27-kreativni-vila-tvoreni-pro-vsechny",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Světlá nad Sázavou",
-      "title": "Kreativní vila - Tvoření pro všechny",
-      "subtitle": "Doporučené",
-      "date": "2026-11-27",
-      "startTime": "14:30",
-      "endTime": "18:30",
-      "startIso": "2026-11-27T13:30:00.000Z",
-      "endIso": "2026-11-27T17:30:00.000Z",
-      "url": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
-      "sourceUrl": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
-      "imageUrl": "https://www.svetlans.cz/image/4671275/600/600/"
-    },
-    {
       "id": "svetla-kytice-133291",
       "category": "culture",
       "subcategory": "event",
@@ -575,8 +540,7 @@
       "startIso": "2026-11-27T18:00:00.000Z",
       "endIso": "2026-11-27T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/maturitni-ples-sste-chotebor",
-      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-sste-chotebor",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/d31d5bd081fabf72efb67554332379d4d67b5e84-468x568.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-sste-chotebor"
     },
     {
       "id": "humpolec-cinema-2026-11-27-1900-snow-film-fest-2026",
@@ -776,41 +740,6 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/53016"
     },
     {
-      "id": "svetla-mesto-2026-11-28-advent-ve-svetle",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Světlá nad Sázavou",
-      "title": "Advent ve Světlé",
-      "subtitle": "Doporučené • Probíhá do 28. 12.",
-      "date": "2026-11-28",
-      "startTime": "14:30",
-      "endTime": "15:00",
-      "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T14:00:00.000Z",
-      "url": "https://www.svetlans.cz/advent-ve-svetle",
-      "sourceUrl": "https://www.svetlans.cz/advent-ve-svetle",
-      "imageUrl": "https://www.svetlans.cz/image/4666109/600/600/"
-    },
-    {
-      "id": "svetla-skating-2026-11-28-1430-1630",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-11-28",
-      "startTime": "14:30",
-      "endTime": "16:30",
-      "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T15:30:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-4",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
-    },
-    {
       "id": "hb-mdko-culture-2026-11-28-1500-vanoce-s-kalamajkou",
       "category": "culture",
       "subcategory": "theatre",
@@ -907,8 +836,7 @@
       "startIso": "2026-11-28T18:00:00.000Z",
       "endIso": "2026-11-28T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/rcz-rammstein-tribute-show",
-      "sourceUrl": "https://www.kdostrov.cz/rcz-rammstein-tribute-show",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/f0a3d4292387b32747c1603c63e2a4448c07e19a-463x569.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/rcz-rammstein-tribute-show"
     },
     {
       "id": "humpolec-culture-2026-11-28-1900-svareny-sane-milanosz",
@@ -1009,23 +937,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "svetla-skating-2026-11-29-1400-1600",
-      "category": "sport",
-      "subcategory": "ice_skating",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "Zimní stadion Pěšinky",
-      "title": "Veřejné bruslení",
-      "date": "2026-11-29",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "startIso": "2026-11-29T13:00:00.000Z",
-      "endIso": "2026-11-29T15:00:00.000Z",
-      "url": "https://www.pesinky.cz/verejne-brusleni-5",
-      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-5",
-      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
-    },
-    {
       "id": "hb-mdko-cinema-2026-11-29-1430-hexe-magicky-svet-3d",
       "category": "cinema",
       "subcategory": "movie",
@@ -1088,24 +999,24 @@
       "startIso": "2026-11-29T17:00:00.000Z",
       "endIso": "2026-11-29T19:30:00.000Z",
       "url": "https://www.kdostrov.cz/2-zaverecny-abslolventsky-ples",
-      "sourceUrl": "https://www.kdostrov.cz/2-zaverecny-abslolventsky-ples",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/76a5f975f98ac0be50dd3096635037b8bd03b167-467x568.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/2-zaverecny-abslolventsky-ples"
     },
     {
-      "id": "humpolec-culture-2026-11-29-1800-putovani-za-hadankou",
+      "id": "humpolec-culture-2026-11-29-1800-vanocni-vystava-betlemu-ze-sbirky-josefa",
       "category": "culture",
-      "subcategory": "event",
+      "subcategory": "exhibition",
       "city": "humpolec",
       "cityName": "Humpolec",
-      "venue": "SVČ Humpolec",
-      "title": "Putování za hádankou",
+      "venue": "Horní náměstí 273",
+      "title": "Vánoční výstava betlémů ze sbírky Josefa Horkého",
+      "subtitle": "20 Kč • Probíhá do 27. 12.",
       "date": "2026-11-29",
       "startTime": "18:00",
       "startIso": "2026-11-29T17:00:00.000Z",
       "endIso": "2026-11-29T19:00:00.000Z",
-      "url": "https://humpolec.cz/akce/putovani-za-hadankou/",
-      "sourceUrl": "https://humpolec.cz/akce/putovani-za-hadankou/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/370-450x300.jpg.webp"
+      "url": "https://humpolec.cz/akce/vanocni-vystava-betlemu-ze-sbirky-josefa-horkeho/",
+      "sourceUrl": "https://humpolec.cz/akce/vanocni-vystava-betlemu-ze-sbirky-josefa-horkeho/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/07/1-450x300.png.webp"
     },
     {
       "id": "humpolec-cinema-2026-11-29-1900-neco-jako-rodina",
@@ -1252,8 +1163,7 @@
       "startIso": "2026-12-01T18:00:00.000Z",
       "endIso": "2026-12-01T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/tereza-maskova",
-      "sourceUrl": "https://www.kdostrov.cz/tereza-maskova",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/ddf24a73acff9dec0e261344c5036c61896f23df-463x570.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/tereza-maskova"
     },
     {
       "id": "humpolec-cinema-2026-12-01-1900-hunger-games-usvit-sklizne",
@@ -1369,8 +1279,7 @@
       "startIso": "2026-12-02T18:00:00.000Z",
       "endIso": "2026-12-02T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/abba-2-12-2026",
-      "sourceUrl": "https://www.kdostrov.cz/abba-2-12-2026",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/8e149233530f9a3e39fad619fdbc1e9cea76a1bb-466x566.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/abba-2-12-2026"
     },
     {
       "id": "humpolec-cinema-2026-12-02-1900-tady-vary-behemot",
@@ -1762,8 +1671,7 @@
       "startIso": "2026-12-05T18:00:00.000Z",
       "endIso": "2026-12-05T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/maturitni-ples-sps-havlickuv-brod",
-      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-sps-havlickuv-brod",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/6a543463a52adcc718e06a82ad819940bd2bff19-468x569.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-sps-havlickuv-brod"
     },
     {
       "id": "hb-mdko-cinema-2026-12-05-2000-hunger-games-usvit-sklizne",
@@ -1947,8 +1855,7 @@
       "startIso": "2026-12-08T18:00:00.000Z",
       "endIso": "2026-12-08T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/martin-hranac",
-      "sourceUrl": "https://www.kdostrov.cz/martin-hranac",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/0b8d9efdc4e7fbef148af802bf01f44087cb05ae-438x567.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/martin-hranac"
     },
     {
       "id": "hb-mdko-culture-2026-12-08-1900-screamers-vanocni-special",
@@ -2032,8 +1939,7 @@
       "startIso": "2026-12-09T18:00:00.000Z",
       "endIso": "2026-12-09T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/ivan-mladek-and-banjo-band",
-      "sourceUrl": "https://www.kdostrov.cz/ivan-mladek-and-banjo-band",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/10100ffdad885d05bf4dce27ba9e5fe34c59b87b-463x570.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/ivan-mladek-and-banjo-band"
     },
     {
       "id": "hb-mdko-culture-2026-12-10-0830-vanocni-pohadka",
@@ -2164,8 +2070,7 @@
       "startIso": "2026-12-11T18:00:00.000Z",
       "endIso": "2026-12-11T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/maturitni-ples-szs-a-vosz",
-      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-szs-a-vosz",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/353370cfea94a10ef918142e1d18517e47baf606-467x571.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-szs-a-vosz"
     },
     {
       "id": "hb-mdko-culture-2026-12-12-1500-v-dobre-spolecnosti-vanocni-koncert-radk",
@@ -2232,8 +2137,7 @@
       "startIso": "2026-12-12T19:00:00.000Z",
       "endIso": "2026-12-12T21:30:00.000Z",
       "url": "https://www.kdostrov.cz/divokej-bill",
-      "sourceUrl": "https://www.kdostrov.cz/divokej-bill",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/7633a64eb98ce6a1019765992f7e487ee1a6030d-470x571.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/divokej-bill"
     },
     {
       "id": "hb-kluboko-2026-12-12-2100-kvietah-a-vcely",
@@ -2316,8 +2220,7 @@
       "startIso": "2026-12-13T18:00:00.000Z",
       "endIso": "2026-12-13T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/dance-cup-hb",
-      "sourceUrl": "https://www.kdostrov.cz/dance-cup-hb",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/bf452d4a8458dc7df1d00fcdae4f2327f81555c8-467x568.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/dance-cup-hb"
     },
     {
       "id": "hb-mdko-culture-2026-12-14-1900-male-chytre-lzi",
@@ -2532,8 +2435,7 @@
       "startIso": "2026-12-18T18:00:00.000Z",
       "endIso": "2026-12-18T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/maturitni-ples-gymnazium-chotebor",
-      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-gymnazium-chotebor",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/82d4bbc5f6af87b1308bc62b8db69c91baad9516-467x569.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/maturitni-ples-gymnazium-chotebor"
     },
     {
       "id": "humpolec-culture-2026-12-18-1900-vanocni-recital-jitky-cvancarove-kapely-",
@@ -2616,6 +2518,23 @@
       "url": "https://mdko.cz/program-kina/hexe-magicky-svet-3d-2.html",
       "sourceUrl": "https://mdko.cz/program-kina/hexe-magicky-svet-3d-2.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7974.jpg?m=1795591346"
+    },
+    {
+      "id": "hb-mdko-cinema-2026-12-19-1800-louskacek-vanocni-pribeh",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Louskáček – Vánoční příběh",
+      "subtitle": "balet • Vstupné: Zdarma / přístupné",
+      "date": "2026-12-19",
+      "startTime": "18:00",
+      "startIso": "2026-12-19T17:00:00.000Z",
+      "endIso": "2026-12-19T19:00:00.000Z",
+      "url": "https://mdko.cz/program-kina/louskacek-vanocni-pribeh.html",
+      "sourceUrl": "https://mdko.cz/program-kina/louskacek-vanocni-pribeh.html",
+      "imageUrl": "https://mdko.cz/photos/vychozi-obrazky/d.jpg?v=1"
     },
     {
       "id": "svetla-kytice-140123",
@@ -2728,8 +2647,7 @@
       "startIso": "2026-12-25T18:00:00.000Z",
       "endIso": "2026-12-25T20:30:00.000Z",
       "url": "https://www.kdostrov.cz/stepanska-zabava",
-      "sourceUrl": "https://www.kdostrov.cz/stepanska-zabava",
-      "imageUrl": "https://cdn.sanity.io/images/a3wdqcta/production/1c1ffe14aedab01667e05ccb7647695144900613-468x569.jpg"
+      "sourceUrl": "https://www.kdostrov.cz/stepanska-zabava"
     },
     {
       "id": "hb-kluboko-2026-12-25-2000-vanocni-unplugged-koncert",
@@ -2754,8 +2672,9 @@
       "city": "svetla",
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
-      "ok": true,
-      "count": 2
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     },
     "svetla_kytice": {
       "id": "svetla_kytice",
@@ -2770,8 +2689,9 @@
       "city": "svetla",
       "label": "Světlá – Kalendář města (svetlans.cz)",
       "url": "https://www.svetlans.cz/kalendar-udalosti",
-      "ok": true,
-      "count": 3
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     },
     "hb_pool": {
       "id": "hb_pool",

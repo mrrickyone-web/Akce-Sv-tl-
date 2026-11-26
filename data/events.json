@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-26T00:47:52.657Z",
+  "lastUpdated": "2026-11-26T06:56:26.481Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.7,
-    "kidsPoolTempC": 32.3,
+    "poolTempC": 27.9,
+    "kidsPoolTempC": 32.8,
     "poolOccupancy": {
       "occupied": 0,
       "capacity": 116
@@ -163,6 +163,22 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "humpolec-culture-2026-11-25-1000-putovani-za-predky",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Skanzen Zichpil",
+      "title": "Putování za předky",
+      "date": "2026-11-25",
+      "startTime": "10:00",
+      "startIso": "2026-11-25T09:00:00.000Z",
+      "endIso": "2026-11-25T11:00:00.000Z",
+      "url": "https://humpolec.cz/akce/putovani-za-predky/",
+      "sourceUrl": "https://humpolec.cz/akce/putovani-za-predky/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/02/DSC_2418-450x300.jpg.webp"
+    },
+    {
       "id": "hb-sauna-2026-11-25-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -194,23 +210,6 @@
       "endIso": "2026-11-25T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "svetla-kytice-130682",
-      "category": "cinema",
-      "subcategory": "movie",
-      "city": "svetla",
-      "cityName": "Světlá nad Sázavou",
-      "venue": "KD Kytice (Kivadlo – Kinosál)",
-      "title": "Já, Rocky",
-      "subtitle": "České titulky",
-      "date": "2026-11-25",
-      "startTime": "18:00",
-      "startIso": "2026-11-25T17:00:00.000Z",
-      "endIso": "2026-11-25T19:00:00.000Z",
-      "url": "https://shop.entradio.cz/event/130682",
-      "sourceUrl": "https://kyticesvetla.cz/akce/50245",
-      "imageUrl": "https://attendio-library.attendio.online/159c1d19695bdf46cec079ebbc3c157cb8e09fc5.jpg"
     },
     {
       "id": "hb-pool-2026-11-26-0600-0730",
@@ -246,6 +245,42 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "humpolec-culture-2026-11-26-1000-tovarna-na-krasno",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "8SMIČKA – zóna pro umění",
+      "title": "Továrna na krásno",
+      "subtitle": "8 Kč • Probíhá do 31. 10.",
+      "date": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": "18:00",
+      "startIso": "2026-11-26T09:00:00.000Z",
+      "endIso": "2026-11-26T17:00:00.000Z",
+      "url": "https://humpolec.cz/akce/tovarna-na-krasno/",
+      "sourceUrl": "https://humpolec.cz/akce/tovarna-na-krasno/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/tovarna-450x300.jpg.webp"
+    },
+    {
+      "id": "humpolec-culture-2026-11-26-1300-boty-plne-fantazie",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Knihovna Jiřiny Zábranové",
+      "title": "Boty plné fantazie",
+      "subtitle": "zdarma • Probíhá do 30. 11.",
+      "date": "2026-11-26",
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "startIso": "2026-11-26T12:00:00.000Z",
+      "endIso": "2026-11-26T16:30:00.000Z",
+      "url": "https://humpolec.cz/akce/boty-plne-fantazie/",
+      "sourceUrl": "https://humpolec.cz/akce/boty-plne-fantazie/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/boty-2-450x300.jpeg.webp"
+    },
+    {
       "id": "hb-sauna-2026-11-26-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -277,6 +312,23 @@
       "endIso": "2026-11-26T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
+    },
+    {
+      "id": "humpolec-culture-2026-11-26-1800-janette-de-la-colette-cas-radosti",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Dolní náměstí 253",
+      "title": "Janette de la Colette – Čas radosti",
+      "subtitle": "20 Kč • Probíhá do 29. 11.",
+      "date": "2026-11-26",
+      "startTime": "18:00",
+      "startIso": "2026-11-26T17:00:00.000Z",
+      "endIso": "2026-11-26T19:00:00.000Z",
+      "url": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
+      "sourceUrl": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/07/1-450x300.png.webp"
     },
     {
       "id": "humpolec-culture-2026-11-26-1800-pata-dohoda",
@@ -328,6 +380,24 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
+      "id": "svetla-mesto-2026-11-27-akademie-svetla-den-otevrenych-dveri",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Světlá nad Sázavou",
+      "title": "Akademie Světlá - Den otevřených dveří",
+      "subtitle": "Doporučené",
+      "date": "2026-11-27",
+      "startTime": "08:00",
+      "endTime": "15:00",
+      "startIso": "2026-11-27T07:00:00.000Z",
+      "endIso": "2026-11-27T14:00:00.000Z",
+      "url": "https://www.svetlans.cz/akademie-svetla-den-otevrenych-dveri",
+      "sourceUrl": "https://www.svetlans.cz/akademie-svetla-den-otevrenych-dveri",
+      "imageUrl": "https://www.svetlans.cz/image/4714374/600/600/"
+    },
+    {
       "id": "hb-sauna-2026-11-27-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -343,6 +413,24 @@
       "endIso": "2026-11-27T20:00:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
+    },
+    {
+      "id": "svetla-mesto-2026-11-27-kreativni-vila-tvoreni-pro-vsechny",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Světlá nad Sázavou",
+      "title": "Kreativní vila - Tvoření pro všechny",
+      "subtitle": "Doporučené",
+      "date": "2026-11-27",
+      "startTime": "14:30",
+      "endTime": "18:30",
+      "startIso": "2026-11-27T13:30:00.000Z",
+      "endIso": "2026-11-27T17:30:00.000Z",
+      "url": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
+      "sourceUrl": "https://www.svetlans.cz/kreativni-vila-tvoreni-pro-vsechny",
+      "imageUrl": "https://www.svetlans.cz/image/4671275/600/600/"
     },
     {
       "id": "svetla-kytice-133291",
@@ -621,6 +709,41 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/53016"
     },
     {
+      "id": "svetla-mesto-2026-11-28-advent-ve-svetle",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Světlá nad Sázavou",
+      "title": "Advent ve Světlé",
+      "subtitle": "Doporučené • Probíhá do 28. 12.",
+      "date": "2026-11-28",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "startIso": "2026-11-28T13:30:00.000Z",
+      "endIso": "2026-11-28T14:00:00.000Z",
+      "url": "https://www.svetlans.cz/advent-ve-svetle",
+      "sourceUrl": "https://www.svetlans.cz/advent-ve-svetle",
+      "imageUrl": "https://www.svetlans.cz/image/4666109/600/600/"
+    },
+    {
+      "id": "svetla-skating-2026-11-28-1430-1630",
+      "category": "sport",
+      "subcategory": "ice_skating",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Zimní stadion Pěšinky",
+      "title": "Veřejné bruslení",
+      "date": "2026-11-28",
+      "startTime": "14:30",
+      "endTime": "16:30",
+      "startIso": "2026-11-28T13:30:00.000Z",
+      "endIso": "2026-11-28T15:30:00.000Z",
+      "url": "https://www.pesinky.cz/verejne-brusleni-4",
+      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
+      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
+    },
+    {
       "id": "hb-mdko-culture-2026-11-28-1500-vanoce-s-kalamajkou",
       "category": "culture",
       "subcategory": "theatre",
@@ -854,6 +977,23 @@
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/10/kurz_grafiky-450x300.jpg.webp"
     },
     {
+      "id": "svetla-skating-2026-11-29-1400-1600",
+      "category": "sport",
+      "subcategory": "ice_skating",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Zimní stadion Pěšinky",
+      "title": "Veřejné bruslení",
+      "date": "2026-11-29",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "startIso": "2026-11-29T13:00:00.000Z",
+      "endIso": "2026-11-29T15:00:00.000Z",
+      "url": "https://www.pesinky.cz/verejne-brusleni-5",
+      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-5",
+      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
+    },
+    {
       "id": "hb-mdko-cinema-2026-11-29-1430-hexe-magicky-svet-3d",
       "category": "cinema",
       "subcategory": "movie",
@@ -901,56 +1041,6 @@
       "endIso": "2026-11-29T16:00:00.000Z",
       "url": "https://shop.entradio.cz/event/137540",
       "sourceUrl": "https://kyticesvetla.cz/akce/52973"
-    },
-    {
-      "id": "humpolec-culture-2026-11-29-1600-vanocni-putovani-s-andely",
-      "category": "culture",
-      "subcategory": "theatre",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Divadlo Za komínem z. s.",
-      "title": "Vánoční putování s anděly",
-      "subtitle": "200 Kč v předprodeji, 250 Kč na místě",
-      "date": "2026-11-29",
-      "startTime": "16:00",
-      "startIso": "2026-11-29T15:00:00.000Z",
-      "endIso": "2026-11-29T17:00:00.000Z",
-      "url": "https://online.colosseum.eu/divadlo-za-kominem-humpolec/standard/Hall/Index/4209223/lKeOCKXqPgCawnVFWqPjZw_rov__rov__xcodex_AGA1gFbU4wgcMOqZKhFvB8y1TdJMzwLLJV9xHA__?",
-      "sourceUrl": "https://humpolec.cz/akce/vanocni-putovani-s-andely/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/04/277560031_347292360750201_8740243669685080403_n-450x300.png.webp"
-    },
-    {
-      "id": "humpolec-culture-2026-11-29-1630-humpolecke-vanoce-zacinaji",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Horní náměstí",
-      "title": "Humpolecké Vánoce začínají",
-      "date": "2026-11-29",
-      "startTime": "16:30",
-      "endTime": "19:00",
-      "startIso": "2026-11-29T15:30:00.000Z",
-      "endIso": "2026-11-29T18:00:00.000Z",
-      "url": "https://humpolec.cz/akce/humpolecke-vanoce-zacinaji/",
-      "sourceUrl": "https://humpolec.cz/akce/humpolecke-vanoce-zacinaji/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/10/vanoce-450x300.jpg.webp"
-    },
-    {
-      "id": "humpolec-culture-2026-11-29-1730-rozsviceni-vanocniho-stromu-v-lipnici-na",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Lipnice nad Sázavou",
-      "title": "Rozsvícení vánočního stromu v Lipnici nad Sázavou",
-      "date": "2026-11-29",
-      "startTime": "17:30",
-      "startIso": "2026-11-29T16:30:00.000Z",
-      "endIso": "2026-11-29T18:30:00.000Z",
-      "url": "https://humpolec.cz/akce/rozsviceni-vanocniho-stromu-v-lipnici-nad-sazavou/",
-      "sourceUrl": "https://humpolec.cz/akce/rozsviceni-vanocniho-stromu-v-lipnici-nad-sazavou/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/600-450x300.jpeg.webp"
     },
     {
       "id": "hb-kdostrov-2026-11-29-1800-2-zaverecny-abslolventsky-ples",
@@ -2301,8 +2391,7 @@
       "startIso": "2026-12-16T17:00:00.000Z",
       "endIso": "2026-12-16T19:00:00.000Z",
       "url": "https://shop.entradio.cz/event/138333",
-      "sourceUrl": "https://kyticesvetla.cz/akce/50245",
-      "imageUrl": "https://attendio-library.attendio.online/159c1d19695bdf46cec079ebbc3c157cb8e09fc5.jpg"
+      "sourceUrl": "https://kyticesvetla.cz/akce/50245"
     },
     {
       "id": "hb-mdko-culture-2026-12-16-1900-rockove-balady-pri-svickach",
@@ -2664,6 +2753,21 @@
       "endIso": "2026-12-25T22:00:00.000Z",
       "url": "https://kluboko.cz/detail-akce/812-25-12-vanocni-nasrot-2",
       "sourceUrl": "https://kluboko.cz/detail-akce/812-25-12-vanocni-nasrot-2"
+    },
+    {
+      "id": "svetla-kytice-139137",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "KD Kytice (Akce ve městě)",
+      "title": "Vánoční florbalový turnaj",
+      "date": "2026-12-26",
+      "startTime": "09:00",
+      "startIso": "2026-12-26T08:00:00.000Z",
+      "endIso": "2026-12-26T10:00:00.000Z",
+      "url": "https://shop.entradio.cz/event/139137",
+      "sourceUrl": "https://kyticesvetla.cz/akce/53603"
     }
   ],
   "sources": {
@@ -2672,9 +2776,8 @@
       "city": "svetla",
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 2
     },
     "svetla_kytice": {
       "id": "svetla_kytice",
@@ -2689,9 +2792,8 @@
       "city": "svetla",
       "label": "Světlá – Kalendář města (svetlans.cz)",
       "url": "https://www.svetlans.cz/kalendar-udalosti",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 3
     },
     "hb_pool": {
       "id": "hb_pool",

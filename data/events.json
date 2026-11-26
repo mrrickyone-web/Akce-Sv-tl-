@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-26T06:56:26.481Z",
+  "lastUpdated": "2026-11-26T12:58:03.377Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.9,
+    "poolTempC": 27.8,
     "kidsPoolTempC": 32.8,
     "poolOccupancy": {
-      "occupied": 0,
+      "occupied": 23,
       "capacity": 116
     },
     "saunaOccupancy": {
@@ -398,6 +398,21 @@
       "imageUrl": "https://www.svetlans.cz/image/4714374/600/600/"
     },
     {
+      "id": "svetla-kytice-143090",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "KD Kytice (Akce ve městě)",
+      "title": "Akademie Světlá - DOD",
+      "date": "2026-11-27",
+      "startTime": "08:00",
+      "startIso": "2026-11-27T07:00:00.000Z",
+      "endIso": "2026-11-27T09:00:00.000Z",
+      "url": "https://shop.entradio.cz/event/143090",
+      "sourceUrl": "https://kyticesvetla.cz/akce/54853"
+    },
+    {
       "id": "hb-sauna-2026-11-27-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -448,7 +463,7 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/51306"
     },
     {
-      "id": "hb-pool-2026-11-27-1600-2140",
+      "id": "hb-pool-2026-11-27-1500-2140",
       "category": "sport",
       "subcategory": "pool",
       "city": "hb",
@@ -456,9 +471,9 @@
       "venue": "Plavecký bazén Kotlina",
       "title": "Veřejné plavání",
       "date": "2026-11-27",
-      "startTime": "16:00",
+      "startTime": "15:00",
       "endTime": "21:40",
-      "startIso": "2026-11-27T15:00:00.000Z",
+      "startIso": "2026-11-27T14:00:00.000Z",
       "endIso": "2026-11-27T20:40:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
@@ -609,6 +624,21 @@
       "endIso": "2026-11-28T10:00:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
+    },
+    {
+      "id": "svetla-kytice-143091",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "KD Kytice (Akce ve městě)",
+      "title": "Akademie Světlá - DOD",
+      "date": "2026-11-28",
+      "startTime": "09:00",
+      "startIso": "2026-11-28T08:00:00.000Z",
+      "endIso": "2026-11-28T10:00:00.000Z",
+      "url": "https://shop.entradio.cz/event/143091",
+      "sourceUrl": "https://kyticesvetla.cz/akce/54853"
     },
     {
       "id": "humpolec-culture-2026-11-28-1000-advent-zacina-na-orliku",
@@ -2785,7 +2815,7 @@
       "label": "Světlá – KD Kytice / Kivadlo (kino a kultura)",
       "url": "https://kyticesvetla.cz/kultura",
       "ok": true,
-      "count": 35
+      "count": 37
     },
     "svetla_mesto": {
       "id": "svetla_mesto",

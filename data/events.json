@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-26T12:58:03.377Z",
+  "lastUpdated": "2026-11-26T18:44:09.407Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.8,
-    "kidsPoolTempC": 32.8,
+    "poolTempC": 27.3,
+    "kidsPoolTempC": 33.1,
     "poolOccupancy": {
-      "occupied": 23,
+      "occupied": 12,
       "capacity": 116
     },
     "saunaOccupancy": {
-      "occupied": 0,
+      "occupied": 12,
       "capacity": 30
     },
     "sourceUrl": "https://www.brodskasportovni.cz/plavecky-bazen-sauna/"
@@ -345,23 +345,6 @@
       "url": "https://www.smsticket.cz/vstupenky/74499-pata-dohoda-kino-humpolec-jaroslav-dusek",
       "sourceUrl": "https://humpolec.cz/akce/pata-dohoda/",
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/09/Jaroslav-Dusek-450x300.png.webp"
-    },
-    {
-      "id": "hb-mdko-culture-2026-11-26-1900-uver",
-      "category": "culture",
-      "subcategory": "theatre",
-      "city": "hb",
-      "cityName": "Havlíčkův Brod",
-      "venue": "Městské divadlo a kino Ostrov",
-      "title": "Úvěr",
-      "subtitle": "Divadlo Metro • Vstupné: 690 Kč, 670 Kč, 650 Kč",
-      "date": "2026-11-26",
-      "startTime": "19:00",
-      "startIso": "2026-11-26T18:00:00.000Z",
-      "endIso": "2026-11-26T20:00:00.000Z",
-      "url": "https://prodej2.disdata.cz:3443/(S(nt40wsihe5unddq5tqol5vj2))/akce3.aspx?id=g%2fdUDsqBxHGBB3Lo8XSBAQ",
-      "sourceUrl": "https://mdko.cz/program-divadla/uver.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7136.jpg?m=1767866846"
     },
     {
       "id": "hb-pool-2026-11-27-0600-0730",
@@ -1548,7 +1531,7 @@
       "endIso": "2026-12-03T20:00:00.000Z",
       "url": "https://prodej2.disdata.cz:3443/(S(nt40wsihe5unddq5tqol5vj2))/akce3.aspx?id=VUvD25hp4gfvUbPm0Zy5Ew",
       "sourceUrl": "https://mdko.cz/program-divadla/vandraci-na-ostrove-lidojedu-pavel-liska-a-jan-revai.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7728.jpg?m=1788201427"
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7991.jpg?m=1795699494"
     },
     {
       "id": "hb-pool-2026-12-04-0600-0730",
@@ -2847,7 +2830,7 @@
       "label": "Havlíčkův Brod – Divadlo Ostrov (MDKO)",
       "url": "https://mdko.cz/program-divadla/",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     "hb_kdostrov": {
       "id": "hb_kdostrov",

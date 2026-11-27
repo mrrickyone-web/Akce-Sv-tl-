@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-27T06:58:14.940Z",
+  "lastUpdated": "2026-11-27T12:55:31.049Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.8,
-    "kidsPoolTempC": 33.2,
+    "poolTempC": 27.7,
+    "kidsPoolTempC": 32.5,
     "poolOccupancy": {
       "occupied": 0,
       "capacity": 116
@@ -413,7 +413,7 @@
       "sourceUrl": "https://kyticesvetla.cz/akce/51306"
     },
     {
-      "id": "hb-pool-2026-11-27-1500-2140",
+      "id": "hb-pool-2026-11-27-1530-2140",
       "category": "sport",
       "subcategory": "pool",
       "city": "hb",
@@ -421,9 +421,9 @@
       "venue": "Plavecký bazén Kotlina",
       "title": "Veřejné plavání",
       "date": "2026-11-27",
-      "startTime": "15:00",
+      "startTime": "15:30",
       "endTime": "21:40",
-      "startIso": "2026-11-27T14:00:00.000Z",
+      "startIso": "2026-11-27T14:30:00.000Z",
       "endIso": "2026-11-27T20:40:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"

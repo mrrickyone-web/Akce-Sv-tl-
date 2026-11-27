@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-27T12:55:31.049Z",
+  "lastUpdated": "2026-11-27T18:43:08.894Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.7,
-    "kidsPoolTempC": 32.5,
+    "poolTempC": 27.4,
+    "kidsPoolTempC": 33.1,
     "poolOccupancy": {
-      "occupied": 0,
+      "occupied": 22,
       "capacity": 116
     },
     "saunaOccupancy": {
-      "occupied": 0,
+      "occupied": 9,
       "capacity": 30
     },
     "sourceUrl": "https://www.brodskasportovni.cz/plavecky-bazen-sauna/"
@@ -429,23 +429,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "hb-mdko-cinema-2026-11-27-1800-vsichni-fotri-jsou-lotri",
-      "category": "cinema",
-      "subcategory": "movie",
-      "city": "hb",
-      "cityName": "Havlíčkův Brod",
-      "venue": "Kino Ostrov",
-      "title": "Všichni fotři jsou lotři",
-      "subtitle": "Komedie / dabing • Vstupné: 180,- / přístupný / 105 min.",
-      "date": "2026-11-27",
-      "startTime": "18:00",
-      "startIso": "2026-11-27T17:00:00.000Z",
-      "endIso": "2026-11-27T18:45:00.000Z",
-      "url": "https://prodej2.disdata.cz/(S(fvbxuezlvvdbr2wpux4zyxo2))/akce3.aspx?id=CzMKicjdwsgu2ouiM0LPZA",
-      "sourceUrl": "https://mdko.cz/program-kina/vsichni-fotri-jsou-lotri.html",
-      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7978.jpg?m=1795591627"
-    },
-    {
       "id": "humpolec-culture-2026-11-27-1800-janette-de-la-colette-cas-radosti",
       "category": "culture",
       "subcategory": "exhibition",
@@ -724,7 +707,7 @@
       "imageUrl": "https://www.svetlans.cz/image/4666109/600/600/"
     },
     {
-      "id": "svetla-skating-2026-11-28-1430-1630",
+      "id": "svetla-skating-2026-11-28-1430-1600",
       "category": "sport",
       "subcategory": "ice_skating",
       "city": "svetla",
@@ -733,9 +716,9 @@
       "title": "Veřejné bruslení",
       "date": "2026-11-28",
       "startTime": "14:30",
-      "endTime": "16:30",
+      "endTime": "16:00",
       "startIso": "2026-11-28T13:30:00.000Z",
-      "endIso": "2026-11-28T15:30:00.000Z",
+      "endIso": "2026-11-28T15:00:00.000Z",
       "url": "https://www.pesinky.cz/verejne-brusleni-4",
       "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
       "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
@@ -805,6 +788,23 @@
       "url": "https://humpolec.cz/akce/slavnostni-rozsviceni-vanocniho-stromu/",
       "sourceUrl": "https://humpolec.cz/akce/slavnostni-rozsviceni-vanocniho-stromu/",
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/11/cejov_strom-450x300.jpg.webp"
+    },
+    {
+      "id": "svetla-skating-2026-11-28-1745-1945",
+      "category": "sport",
+      "subcategory": "ice_skating",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "Zimní stadion Pěšinky",
+      "title": "Veřejné bruslení",
+      "date": "2026-11-28",
+      "startTime": "17:45",
+      "endTime": "19:45",
+      "startIso": "2026-11-28T16:45:00.000Z",
+      "endIso": "2026-11-28T18:45:00.000Z",
+      "url": "https://www.pesinky.cz/verejne-brusleni-4",
+      "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
+      "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
     },
     {
       "id": "hb-mdko-cinema-2026-11-28-1900-hunger-games-usvit-sklizne",
@@ -1203,7 +1203,7 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "hb-sauna-2026-12-01-1400-2100",
+      "id": "hb-sauna-2026-12-01-1700-2100",
       "category": "sport",
       "subcategory": "sauna",
       "city": "hb",
@@ -1212,9 +1212,9 @@
       "title": "Sauna (Ženy)",
       "subtitle": "Finská sauna – Havlíčkův Brod",
       "date": "2026-12-01",
-      "startTime": "14:00",
+      "startTime": "17:00",
       "endTime": "21:00",
-      "startIso": "2026-12-01T13:00:00.000Z",
+      "startIso": "2026-12-01T16:00:00.000Z",
       "endIso": "2026-12-01T20:00:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
@@ -1594,7 +1594,7 @@
       "startTime": "17:30",
       "startIso": "2026-12-04T16:30:00.000Z",
       "endIso": "2026-12-04T17:56:00.000Z",
-      "url": "https://mdko.cz/program-kina/asterix-a-obelix-kralovstvi-nubie.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=w2WTnaj8dC4L3%2fsHwgeSeg",
       "sourceUrl": "https://mdko.cz/program-kina/asterix-a-obelix-kralovstvi-nubie.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7979.jpg?m=1795600617"
     },
@@ -1611,7 +1611,7 @@
       "startTime": "19:30",
       "startIso": "2026-12-04T18:30:00.000Z",
       "endIso": "2026-12-04T20:20:00.000Z",
-      "url": "https://mdko.cz/program-kina/silena-noc-2.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=afR4bRSk3pHLeJuyOZHPKg",
       "sourceUrl": "https://mdko.cz/program-kina/silena-noc-2.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7980.jpg?m=1795600867"
     },
@@ -1725,7 +1725,7 @@
       "startTime": "18:00",
       "startIso": "2026-12-05T17:00:00.000Z",
       "endIso": "2026-12-05T18:35:00.000Z",
-      "url": "https://mdko.cz/program-kina/neco-jako-rodina-2.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=lwmHz6UyeazzH1ClARF4yg",
       "sourceUrl": "https://mdko.cz/program-kina/neco-jako-rodina-2.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7977.jpg?m=1795591511"
     },
@@ -1773,7 +1773,7 @@
       "startTime": "20:00",
       "startIso": "2026-12-05T19:00:00.000Z",
       "endIso": "2026-12-05T21:39:00.000Z",
-      "url": "https://mdko.cz/program-kina/hunger-games-usvit-sklizne-4.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=MJSvmfcNYjXLSPVVyIkGcg",
       "sourceUrl": "https://mdko.cz/program-kina/hunger-games-usvit-sklizne-4.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7935.jpg?m=1794320109"
     },
@@ -1873,7 +1873,7 @@
       "startTime": "19:00",
       "startIso": "2026-12-06T18:00:00.000Z",
       "endIso": "2026-12-06T19:33:00.000Z",
-      "url": "https://mdko.cz/program-kina/zeny-v-lihu-3.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=lM4lQeOw1oqaaTkGZzDQDg",
       "sourceUrl": "https://mdko.cz/program-kina/zeny-v-lihu-3.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7928.jpg?m=1794319451"
     },
@@ -2075,7 +2075,7 @@
       "startTime": "17:00",
       "startIso": "2026-12-10T16:00:00.000Z",
       "endIso": "2026-12-10T17:29:00.000Z",
-      "url": "https://mdko.cz/program-kina/biograf-sen-dokonaly-den.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=TsoBd18wiFGphE8ngqCkSA",
       "sourceUrl": "https://mdko.cz/program-kina/biograf-sen-dokonaly-den.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7981.jpg?m=1795601098"
     },
@@ -2092,7 +2092,7 @@
       "startTime": "19:30",
       "startIso": "2026-12-10T18:30:00.000Z",
       "endIso": "2026-12-10T20:27:00.000Z",
-      "url": "https://mdko.cz/program-kina/ebenezer-vanocni-koleda-4.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=RYURjuJIvJEu%2bn%2fw2tyPpw",
       "sourceUrl": "https://mdko.cz/program-kina/ebenezer-vanocni-koleda-4.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7898.jpg?m=1793696766"
     },
@@ -2255,7 +2255,7 @@
       "startTime": "15:00",
       "startIso": "2026-12-13T14:00:00.000Z",
       "endIso": "2026-12-13T15:34:00.000Z",
-      "url": "https://mdko.cz/program-kina/kamenakovi.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=DX7q0BfaWHC3UFwdSBPQHQ",
       "sourceUrl": "https://mdko.cz/program-kina/kamenakovi.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7983.jpg?m=1795601402"
     },
@@ -2289,7 +2289,7 @@
       "startTime": "17:00",
       "startIso": "2026-12-13T16:00:00.000Z",
       "endIso": "2026-12-13T17:38:00.000Z",
-      "url": "https://mdko.cz/program-kina/drevorubec-3.html",
+      "url": "https://prodej2.disdata.cz/(S(rchywooeuobdqmjwq5l1gknw))/akce3.aspx?id=rdfun0cK58MNkTbvuX7rGw",
       "sourceUrl": "https://mdko.cz/program-kina/drevorubec-3.html",
       "imageUrl": "https://mdko.cz/photos/texty/_n/7/7886.jpg?m=1793696098"
     },
@@ -2640,6 +2640,23 @@
       "imageUrl": "https://attendio-library.attendio.online/ba4ee01d6bcf90fb916828c88134127db36052a8.png"
     },
     {
+      "id": "hb-mdko-cinema-2026-12-19-2030-neco-jako-rodina",
+      "category": "cinema",
+      "subcategory": "movie",
+      "city": "hb",
+      "cityName": "Havlíčkův Brod",
+      "venue": "Kino Ostrov",
+      "title": "Něco jako rodina",
+      "subtitle": "Komedie • Vstupné: 180,- / od 12 let / 95 min.",
+      "date": "2026-12-19",
+      "startTime": "20:30",
+      "startIso": "2026-12-19T19:30:00.000Z",
+      "endIso": "2026-12-19T21:05:00.000Z",
+      "url": "https://mdko.cz/program-kina/neco-jako-rodina-3.html",
+      "sourceUrl": "https://mdko.cz/program-kina/neco-jako-rodina-3.html",
+      "imageUrl": "https://mdko.cz/photos/texty/_n/7/7977.jpg?m=1795591511"
+    },
+    {
       "id": "hb-kluboko-2026-12-19-2100-vanocni-koncert-kejvavy-kone",
       "category": "culture",
       "subcategory": "concert",
@@ -2789,7 +2806,7 @@
       "label": "Světlá – Veřejné bruslení (Pěšinky)",
       "url": "https://www.pesinky.cz/",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "svetla_kytice": {
       "id": "svetla_kytice",

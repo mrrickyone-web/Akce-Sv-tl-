@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-26T18:44:09.407Z",
+  "lastUpdated": "2026-11-27T00:52:26.547Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.3,
-    "kidsPoolTempC": 33.1,
+    "poolTempC": 27.8,
+    "kidsPoolTempC": 31.1,
     "poolOccupancy": {
-      "occupied": 12,
+      "occupied": 0,
       "capacity": 116
     },
     "saunaOccupancy": {
-      "occupied": 12,
+      "occupied": 0,
       "capacity": 30
     },
     "sourceUrl": "https://www.brodskasportovni.cz/plavecky-bazen-sauna/"
@@ -245,42 +245,6 @@
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
     },
     {
-      "id": "humpolec-culture-2026-11-26-1000-tovarna-na-krasno",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "8SMIČKA – zóna pro umění",
-      "title": "Továrna na krásno",
-      "subtitle": "8 Kč • Probíhá do 31. 10.",
-      "date": "2026-11-26",
-      "startTime": "10:00",
-      "endTime": "18:00",
-      "startIso": "2026-11-26T09:00:00.000Z",
-      "endIso": "2026-11-26T17:00:00.000Z",
-      "url": "https://humpolec.cz/akce/tovarna-na-krasno/",
-      "sourceUrl": "https://humpolec.cz/akce/tovarna-na-krasno/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/tovarna-450x300.jpg.webp"
-    },
-    {
-      "id": "humpolec-culture-2026-11-26-1300-boty-plne-fantazie",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Knihovna Jiřiny Zábranové",
-      "title": "Boty plné fantazie",
-      "subtitle": "zdarma • Probíhá do 30. 11.",
-      "date": "2026-11-26",
-      "startTime": "13:00",
-      "endTime": "17:30",
-      "startIso": "2026-11-26T12:00:00.000Z",
-      "endIso": "2026-11-26T16:30:00.000Z",
-      "url": "https://humpolec.cz/akce/boty-plne-fantazie/",
-      "sourceUrl": "https://humpolec.cz/akce/boty-plne-fantazie/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/boty-2-450x300.jpeg.webp"
-    },
-    {
       "id": "hb-sauna-2026-11-26-1400-2100",
       "category": "sport",
       "subcategory": "sauna",
@@ -312,39 +276,6 @@
       "endIso": "2026-11-26T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "humpolec-culture-2026-11-26-1800-janette-de-la-colette-cas-radosti",
-      "category": "culture",
-      "subcategory": "exhibition",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Dolní náměstí 253",
-      "title": "Janette de la Colette – Čas radosti",
-      "subtitle": "20 Kč • Probíhá do 29. 11.",
-      "date": "2026-11-26",
-      "startTime": "18:00",
-      "startIso": "2026-11-26T17:00:00.000Z",
-      "endIso": "2026-11-26T19:00:00.000Z",
-      "url": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
-      "sourceUrl": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/07/1-450x300.png.webp"
-    },
-    {
-      "id": "humpolec-culture-2026-11-26-1800-pata-dohoda",
-      "category": "culture",
-      "subcategory": "theatre",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Kino Humpolec",
-      "title": "Pátá dohoda",
-      "date": "2026-11-26",
-      "startTime": "18:00",
-      "startIso": "2026-11-26T17:00:00.000Z",
-      "endIso": "2026-11-26T19:00:00.000Z",
-      "url": "https://www.smsticket.cz/vstupenky/74499-pata-dohoda-kino-humpolec-jaroslav-dusek",
-      "sourceUrl": "https://humpolec.cz/akce/pata-dohoda/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/09/Jaroslav-Dusek-450x300.png.webp"
     },
     {
       "id": "hb-pool-2026-11-27-0600-0730",
@@ -1054,6 +985,56 @@
       "endIso": "2026-11-29T16:00:00.000Z",
       "url": "https://shop.entradio.cz/event/137540",
       "sourceUrl": "https://kyticesvetla.cz/akce/52973"
+    },
+    {
+      "id": "humpolec-culture-2026-11-29-1600-vanocni-putovani-s-andely",
+      "category": "culture",
+      "subcategory": "theatre",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Divadlo Za komínem z. s.",
+      "title": "Vánoční putování s anděly",
+      "subtitle": "200 Kč v předprodeji, 250 Kč na místě",
+      "date": "2026-11-29",
+      "startTime": "16:00",
+      "startIso": "2026-11-29T15:00:00.000Z",
+      "endIso": "2026-11-29T17:00:00.000Z",
+      "url": "https://online.colosseum.eu/divadlo-za-kominem-humpolec/standard/Hall/Index/4209223/lKeOCKXqPgCawnVFWqPjZw_rov__rov__xcodex_AGA1gFbU4wgcMOqZKhFvB8y1TdJMzwLLJV9xHA__?",
+      "sourceUrl": "https://humpolec.cz/akce/vanocni-putovani-s-andely/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/04/277560031_347292360750201_8740243669685080403_n-450x300.png.webp"
+    },
+    {
+      "id": "humpolec-culture-2026-11-29-1630-humpolecke-vanoce-zacinaji",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Horní náměstí",
+      "title": "Humpolecké Vánoce začínají",
+      "date": "2026-11-29",
+      "startTime": "16:30",
+      "endTime": "19:00",
+      "startIso": "2026-11-29T15:30:00.000Z",
+      "endIso": "2026-11-29T18:00:00.000Z",
+      "url": "https://humpolec.cz/akce/humpolecke-vanoce-zacinaji/",
+      "sourceUrl": "https://humpolec.cz/akce/humpolecke-vanoce-zacinaji/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/10/vanoce-450x300.jpg.webp"
+    },
+    {
+      "id": "humpolec-culture-2026-11-29-1730-rozsviceni-vanocniho-stromu-v-lipnici-na",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Lipnice nad Sázavou",
+      "title": "Rozsvícení vánočního stromu v Lipnici nad Sázavou",
+      "date": "2026-11-29",
+      "startTime": "17:30",
+      "startIso": "2026-11-29T16:30:00.000Z",
+      "endIso": "2026-11-29T18:30:00.000Z",
+      "url": "https://humpolec.cz/akce/rozsviceni-vanocniho-stromu-v-lipnici-nad-sazavou/",
+      "sourceUrl": "https://humpolec.cz/akce/rozsviceni-vanocniho-stromu-v-lipnici-nad-sazavou/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/600-450x300.jpeg.webp"
     },
     {
       "id": "hb-kdostrov-2026-11-29-1800-2-zaverecny-abslolventsky-ples",
@@ -2781,6 +2762,21 @@
       "endIso": "2026-12-26T10:00:00.000Z",
       "url": "https://shop.entradio.cz/event/139137",
       "sourceUrl": "https://kyticesvetla.cz/akce/53603"
+    },
+    {
+      "id": "svetla-kytice-137680",
+      "category": "culture",
+      "subcategory": "event",
+      "city": "svetla",
+      "cityName": "Světlá nad Sázavou",
+      "venue": "KD Kytice (Akce ve městě)",
+      "title": "Vánoční jízda Posázavím",
+      "date": "2026-12-27",
+      "startTime": "14:50",
+      "startIso": "2026-12-27T13:50:00.000Z",
+      "endIso": "2026-12-27T15:50:00.000Z",
+      "url": "https://shop.entradio.cz/event/137680",
+      "sourceUrl": "https://kyticesvetla.cz/akce/53053"
     }
   ],
   "sources": {
@@ -2798,7 +2794,7 @@
       "label": "Světlá – KD Kytice / Kivadlo (kino a kultura)",
       "url": "https://kyticesvetla.cz/kultura",
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "svetla_mesto": {
       "id": "svetla_mesto",

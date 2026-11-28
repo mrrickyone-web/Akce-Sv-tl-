@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-28T00:48:49.191Z",
+  "lastUpdated": "2026-11-28T06:54:12.778Z",
   "timezone": "Europe/Prague",
   "poolStatus": {
-    "poolTempC": 27.7,
-    "kidsPoolTempC": 32.5,
+    "poolTempC": 27.9,
+    "kidsPoolTempC": 32.6,
     "poolOccupancy": {
       "occupied": 0,
       "capacity": 116
@@ -79,22 +79,6 @@
       "endIso": "2026-11-23T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "humpolec-culture-2026-11-23-1700-program-spolku-pratel-krasonova-listopad",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Krasoňov",
-      "title": "Program Spolku přátel Krasoňova – listopad 2026",
-      "date": "2026-11-23",
-      "startTime": "17:00",
-      "startIso": "2026-11-23T16:00:00.000Z",
-      "endIso": "2026-11-23T18:00:00.000Z",
-      "url": "https://humpolec.cz/akce/program-spolku-pratel-krasonova-unor-2026/",
-      "sourceUrl": "https://humpolec.cz/akce/program-spolku-pratel-krasonova-unor-2026/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/10/krasonov.jpeg.webp"
     },
     {
       "id": "hb-pool-2026-11-24-0600-0730",
@@ -425,6 +409,24 @@
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/11/cislo-49-1-450x300.jpg.webp"
     },
     {
+      "id": "humpolec-culture-2026-11-28-1000-tovarna-na-krasno",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "8SMIČKA – zóna pro umění",
+      "title": "Továrna na krásno",
+      "subtitle": "8 Kč • Probíhá do 31. 10.",
+      "date": "2026-11-28",
+      "startTime": "10:00",
+      "endTime": "18:00",
+      "startIso": "2026-11-28T09:00:00.000Z",
+      "endIso": "2026-11-28T17:00:00.000Z",
+      "url": "https://humpolec.cz/akce/tovarna-na-krasno/",
+      "sourceUrl": "https://humpolec.cz/akce/tovarna-na-krasno/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/tovarna-450x300.jpg.webp"
+    },
+    {
       "id": "humpolec-culture-2026-11-28-1100-vanocni-dilnicky-v-klastere-zeliv",
       "category": "culture",
       "subcategory": "event",
@@ -439,6 +441,24 @@
       "url": "https://humpolec.cz/akce/vanocni-dilnicky-v-klastere-zeliv/",
       "sourceUrl": "https://humpolec.cz/akce/vanocni-dilnicky-v-klastere-zeliv/",
       "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2025/10/klaster_zeliv-450x300.png.webp"
+    },
+    {
+      "id": "humpolec-culture-2026-11-28-1300-boty-plne-fantazie",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Knihovna Jiřiny Zábranové",
+      "title": "Boty plné fantazie",
+      "subtitle": "zdarma • Probíhá do 30. 11.",
+      "date": "2026-11-28",
+      "startTime": "13:00",
+      "endTime": "17:30",
+      "startIso": "2026-11-28T12:00:00.000Z",
+      "endIso": "2026-11-28T16:30:00.000Z",
+      "url": "https://humpolec.cz/akce/boty-plne-fantazie/",
+      "sourceUrl": "https://humpolec.cz/akce/boty-plne-fantazie/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/11/boty-2-450x300.jpeg.webp"
     },
     {
       "id": "hb-sauna-2026-11-28-1400-2100",
@@ -622,6 +642,23 @@
       "url": "https://www.pesinky.cz/verejne-brusleni-4",
       "sourceUrl": "https://www.pesinky.cz/verejne-brusleni-4",
       "imageUrl": "https://www.pesinky.cz/image/4510619/800/600"
+    },
+    {
+      "id": "humpolec-culture-2026-11-28-1800-janette-de-la-colette-cas-radosti",
+      "category": "culture",
+      "subcategory": "exhibition",
+      "city": "humpolec",
+      "cityName": "Humpolec",
+      "venue": "Dolní náměstí 253",
+      "title": "Janette de la Colette – Čas radosti",
+      "subtitle": "20 Kč • Probíhá do 29. 11.",
+      "date": "2026-11-28",
+      "startTime": "18:00",
+      "startIso": "2026-11-28T17:00:00.000Z",
+      "endIso": "2026-11-28T19:00:00.000Z",
+      "url": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
+      "sourceUrl": "https://humpolec.cz/akce/janette-de-la-colette-cas-radosti/",
+      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/07/1-450x300.png.webp"
     },
     {
       "id": "hb-mdko-cinema-2026-11-28-1900-hunger-games-usvit-sklizne",
@@ -1036,23 +1073,6 @@
       "endIso": "2026-11-30T20:30:00.000Z",
       "url": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999",
       "sourceUrl": "https://rozpis.eu/public/schedule?tenantId=39567125-a950-06ee-676b-2ff66968ac18&resource=999"
-    },
-    {
-      "id": "humpolec-culture-2026-11-30-1745-ctyri-mesice-v-japonsku",
-      "category": "culture",
-      "subcategory": "event",
-      "city": "humpolec",
-      "cityName": "Humpolec",
-      "venue": "Dolní náměstí 250",
-      "title": "Čtyři měsíce v Japonsku",
-      "subtitle": "20 Kč",
-      "date": "2026-11-30",
-      "startTime": "17:45",
-      "startIso": "2026-11-30T16:45:00.000Z",
-      "endIso": "2026-11-30T18:45:00.000Z",
-      "url": "https://humpolec.cz/akce/ctyri-mesice-v-japonsku/",
-      "sourceUrl": "https://humpolec.cz/akce/ctyri-mesice-v-japonsku/",
-      "imageUrl": "https://humpolec.cz/wp-content/smush-webp/2026/10/Navrh-bez-nazvu-27-450x300.jpg.webp"
     },
     {
       "id": "hb-pool-2026-12-01-0600-0730",
